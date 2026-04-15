@@ -1,0 +1,23 @@
+__pycache__/
+*.pyc
+
+# Virtual environment
+env/
+venv/
+.venv/
+
+# IDE files
+.vscode/
+.idea/
+
+# Downloaded or temporary specific test scripts
+test_*.py
+sample_epg.json
+preloaded_state.json
+preloaded_state.txt
+data_keys.txt
+channels.json
+channels2.json
+starzplay.html
+epg_channels.json
+epg_dump.json
