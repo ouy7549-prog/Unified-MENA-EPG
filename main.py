@@ -3,7 +3,7 @@ import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 import xml.dom.minidom
 
-API_URL = "https://prod-cdn-content-api.intigral-ott.net/content-api-3.0.1/channels/schedules/2026-04-18/3?apikey=GDMPrdExy0sVDlZMzNDdUyZ"
+API_URL = "https://prod-cdn-content-api.intigral-ott.net/content-api-3.0.1/channels/schedules/2026-04-18?apikey=GDMPrdExy0sVDlZMzNDdUyZ"
 OUTPUT_FILE = "epg_guide.xml"
 
 def fetch_data(url):
