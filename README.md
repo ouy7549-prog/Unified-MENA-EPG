@@ -32,7 +32,8 @@
    pip install requests beautifulsoup4
    ```
 2. قم بتشغيل السكربت:
-```python combined_epg_script.py
+```bash
+python combined_epg_script.py
    ```
 
 🤖 الأتمتة (GitHub Actions)
