@@ -2,7 +2,6 @@ import requests
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
 import time
-import math
 import xml.dom.minidom
 
 # --- إعدادات عامة ---
@@ -10,7 +9,7 @@ OUTPUT_FILE = "combined_epg_final.xml"
 HEADERS = {'User-Agent': 'Mozilla/5.0'}
 
 def format_unix_time(unix_ts_ms, is_ms=True):
-    """تحويل الطابع الزمني (ملي ثانية أو ثانية) إلى تنسيق XMLTV"""
+    """تحويل الطابع الزمني إلى تنسيق XMLTV"""
     ts = unix_ts_ms / 1000.0 if is_ms else unix_ts_ms
     dt = datetime.fromtimestamp(ts, tz=timezone.utc)
     return dt.strftime('%Y%m%d%H%M%S +0000')
@@ -27,8 +26,9 @@ def fetch_shahid(root):
         data = requests.get(url, headers=HEADERS).json().get('items', [])
         for channel in data:
             ch_id = f"Shahid_{channel.get('channelId')}"
-            chan_el = ET.SubElement(root, "channel", id=ch_id)
-            ET.SubElement(chan_el, "display-name").text = f"Shahid {channel.get('channelId')}"
+            if root.find(f"channel[@id='{ch_id}']") is None:
+                chan_el = ET.SubElement(root, "channel", id=ch_id)
+                ET.SubElement(chan_el, "display-name").text = f"Shahid {channel.get('channelId')}"
             
             for p in channel.get('items', []):
                 start = p['from'].split('.')[0].replace('-', '').replace(':', '').replace('T', '') + " +0000"
@@ -45,20 +45,20 @@ def fetch_starzplay(root):
     print("📡 جاري جلب بيانات Starzplay...")
     base_url = 'https://epg.aws.playco.com/api/v1.1/epg/category/events/web-epg-scraper-sp'
     now_ts = int(time.time())
-    params = {'ts_start': now_ts - 86400, 'ts_end': now_ts + 172800, 'lang': 'ar', 'pg': 18, 'category': 'all', 'page': 1, 'limit': 40, 'x-geo-country': 'SA'}
+    # تم ضبط المدى الزمني هنا ليشمل 3 أيام تلقائياً
+    params = {'ts_start': now_ts - 86400, 'ts_end': now_ts + (86400 * 3), 'lang': 'ar', 'pg': 18, 'category': 'all', 'page': 1, 'limit': 40, 'x-geo-country': 'SA'}
     
     try:
         data = requests.get(base_url, params=params, headers=HEADERS).json()
         for channel in data.get('data', []):
             slug = f"Starz_{channel.get('slug')}"
-            chan_el = ET.SubElement(root, "channel", id=slug)
-            ET.SubElement(chan_el, "display-name").text = channel.get('title', slug)
-            
-            # Logo
-            images = channel.get('images', [])
-            if images:
-                logo = next((img for img in images if img.get('type') == 'logo-png'), images[0])
-                ET.SubElement(chan_el, "icon", src=logo.get('url', ''))
+            if root.find(f"channel[@id='{slug}']") is None:
+                chan_el = ET.SubElement(root, "channel", id=slug)
+                ET.SubElement(chan_el, "display-name").text = channel.get('title', slug)
+                images = channel.get('images', [])
+                if images:
+                    logo = next((img for img in images if img.get('type') == 'logo-png'), images[0])
+                    ET.SubElement(chan_el, "icon", src=logo.get('url', ''))
 
             for event in channel.get('events', []):
                 prog = ET.SubElement(root, "programme", start=format_unix_time(event.get('tsStart'), False), 
@@ -68,43 +68,46 @@ def fetch_starzplay(root):
                 if event.get('images'): ET.SubElement(prog, "icon", src=event['images'][0].get('url', ''))
     except Exception as e: print(f"⚠️ خطأ في Starzplay: {e}")
 
-def fetch_stc_tv(root):
-    today = datetime.now().strftime('%Y-%m-%d')
-    print(f"📡 جاري جلب بيانات STC TV ليوم {today}...")
-    url = f"https://prod-cdn-content-api.intigral-ott.net/content-api-3.0.1/channels/schedules/{today}/3?apikey=GDMPrdExy0sVDlZMzNDdUyZ&country=SA"
-    
-    try:
-        data = requests.get(url, headers=HEADERS).json()
-        for ch_data in data:
-            raw_id = ch_data.get('channelId', '').split('/')[-1]
-            ch_id = f"STC_{raw_id}"
-            chan_el = ET.SubElement(root, "channel", id=ch_id)
-            ET.SubElement(chan_el, "display-name").text = f"STC Channel {raw_id}"
-            
-            for list_item in ch_data.get('listings', []):
-                start_t = list_item.get('startTime')
-                end_t = list_item.get('endTime')
-                if start_t and end_t:
-                    prog = ET.SubElement(root, "programme", start=format_unix_time(start_t), stop=format_unix_time(end_t), channel=ch_id)
-                    title = list_item.get('localizedTitle', {}).get('ar') or list_item.get('title', '')
-                    ET.SubElement(prog, "title", lang="ar").text = title
-                    desc = list_item.get('localizedDescription', {}).get('ar') or list_item.get('description', '')
-                    if desc: ET.SubElement(prog, "desc", lang="ar").text = desc
-                    imgs = list_item.get('images', [])
-                    if imgs: ET.SubElement(prog, "icon", src=imgs[0].get('imageUrl', ''))
-    except Exception as e: print(f"⚠️ خطأ في STC TV: {e}")
+def fetch_stc_tv_3_days(root):
+    """جلب بيانات STC TV لـ 3 أيام متتالية"""
+    for i in range(3):
+        date_str = (datetime.now() + timedelta(days=i)).strftime('%Y-%m-%d')
+        print(f"📡 [STC TV] جاري جلب بيانات يوم: {date_str}...")
+        url = f"https://prod-cdn-content-api.intigral-ott.net/content-api-3.0.1/channels/schedules/{date_str}/3?apikey=GDMPrdExy0sVDlZMzNDdUyZ&country=SA"
+        
+        try:
+            data = requests.get(url, headers=HEADERS).json()
+            for ch_data in data:
+                raw_id = ch_data.get('channelId', '').split('/')[-1]
+                ch_id = f"STC_{raw_id}"
+                
+                # إضافة القناة فقط إذا لم تكن موجودة مسبقاً (لتجنب التكرار في الأيام اللاحقة)
+                if root.find(f"channel[@id='{ch_id}']") is None:
+                    chan_el = ET.SubElement(root, "channel", id=ch_id)
+                    ET.SubElement(chan_el, "display-name").text = f"STC Channel {raw_id}"
+                
+                for list_item in ch_data.get('listings', []):
+                    start_t = list_item.get('startTime')
+                    end_t = list_item.get('endTime')
+                    if start_t and end_t:
+                        prog = ET.SubElement(root, "programme", start=format_unix_time(start_t), stop=format_unix_time(end_t), channel=ch_id)
+                        title = list_item.get('localizedTitle', {}).get('ar') or list_item.get('title', '')
+                        ET.SubElement(prog, "title", lang="ar").text = title
+                        desc = list_item.get('localizedDescription', {}).get('ar') or list_item.get('description', '')
+                        if desc: ET.SubElement(prog, "desc", lang="ar").text = desc
+                        imgs = list_item.get('images', [])
+                        if imgs: ET.SubElement(prog, "icon", src=imgs[0].get('imageUrl', ''))
+        except Exception as e: print(f"⚠️ خطأ في STC TV ليوم {date_str}: {e}")
 
 def main():
-    print("🚀 بدء عملية الدمج الشاملة...")
+    print("🚀 بدء عملية الدمج لـ 3 أيام...")
     root = ET.Element("tv", {"generator-info-name": "Multi-Source EPG Generator"})
 
-    # تنفيذ الجلب من المصادر الثلاثة
     fetch_shahid(root)
     fetch_starzplay(root)
-    fetch_stc_tv(root)
+    fetch_stc_tv_3_days(root) # استدعاء الدالة الجديدة لـ 3 أيام
 
-    # حفظ وتنسيق الملف
-    print("💾 جاري حفظ الملف النهائي وتنسيقه...")
+    print("💾 جاري حفظ الملف النهائي...")
     xml_str = ET.tostring(root, encoding="utf-8")
     reparsed = xml.dom.minidom.parseString(xml_str)
     pretty_xml = reparsed.toprettyxml(indent="  ")
@@ -112,7 +115,7 @@ def main():
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         f.write(pretty_xml)
         
-    print(f"✅ تم بنجاح! الملف جاهز هنا: {OUTPUT_FILE}")
+    print(f"✅ تم بنجاح! الملف يحتوي الآن على برامج لـ 3 أيام: {OUTPUT_FILE}")
 
 if __name__ == "__main__":
     main()
