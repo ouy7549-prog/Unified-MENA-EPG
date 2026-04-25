@@ -36,7 +36,7 @@
 python combined_epg_script.py
    ```
 
-🤖 الأتمتة (GitHub Actions)
+## 🤖 الأتمتة (GitHub Actions)
 تم إعداد ملف الـ Workflow ليقوم بـ:
 
 تشغيل السكربت مرتين يومياً.
