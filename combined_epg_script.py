@@ -124,6 +124,7 @@ def main():
     fetch_beIN_3_days(root)
     fetch_stc_tv_3_days(root)
     fetch_shahid(root)
+    fetch_starzplay(root)
 
     print("💾 جاري حفظ الملف النهائي...")
     xml_str = ET.tostring(root, encoding="utf-8")
