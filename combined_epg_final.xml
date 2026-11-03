@@ -33294,12 +33294,7 @@
     <display-name>سكاي نيوز عربية - مباشر</display-name>
     <icon src="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/skynewsarabia-active.png"/>
   </channel>
-  <programme start="20261102184500 +0000" stop="20261102190000 +0000" channel="Starz_skynewsarabia">
-    <title lang="ar">Sky News عربية HD</title>
-    <desc lang="ar">Sky News عربية HD</desc>
-    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/News2.jpg"/>
-  </programme>
-  <programme start="20261102190000 +0000" stop="20261102200000 +0000" channel="Starz_skynewsarabia">
+  <programme start="20261102192000 +0000" stop="20261102200000 +0000" channel="Starz_skynewsarabia">
     <title lang="ar">Sky News عربية HD</title>
     <desc lang="ar">Sky News عربية HD</desc>
     <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/News2.jpg"/>
@@ -33779,21 +33774,16 @@
     <desc lang="ar">Sky News عربية HD</desc>
     <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/News2.jpg"/>
   </programme>
+  <programme start="20261106190000 +0000" stop="20261106200000 +0000" channel="Starz_skynewsarabia">
+    <title lang="ar">Sky News عربية HD</title>
+    <desc lang="ar">Sky News عربية HD</desc>
+    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/News2.jpg"/>
+  </programme>
   <channel id="Starz_admnadsports1">
     <display-name>1 أبوظبي الرياضية</display-name>
     <icon src="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/admnadsports1/active/05ec3a0dd0f04e36e25a7b6e4b8e90d8.png"/>
   </channel>
-  <programme start="20261102184500 +0000" stop="20261102184500 +0000" channel="Starz_admnadsports1">
-    <title lang="ar">Sport Confidential (Ar) 2026</title>
-    <desc lang="ar">Sport Confidential (Ar) 2026</desc>
-    <icon src="http://mena-img-cdn-lb.aws.playco.com/admn-ingest-inhouse/ADMNADSPORTS1Y2025MAR/ADMNADSPORTS1Y2025MAR-landscape-poster-v1.jpg"/>
-  </programme>
-  <programme start="20261102184500 +0000" stop="20261102191500 +0000" channel="Starz_admnadsports1">
-    <title lang="ar">The Greatest of All Time 2026 : Season 2  (Ar)</title>
-    <desc lang="ar">The Greatest of All Time 2026 : Season 2  (Ar)</desc>
-    <icon src="http://mena-img-cdn-lb.aws.playco.com/admn-ingest-inhouse/ADMNADSPORTS1Y2025MAR/ADMNADSPORTS1Y2025MAR-landscape-poster-v1.jpg"/>
-  </programme>
-  <programme start="20261102191500 +0000" stop="20261102201500 +0000" channel="Starz_admnadsports1">
+  <programme start="20261102192000 +0000" stop="20261102201500 +0000" channel="Starz_admnadsports1">
     <title lang="ar">German Cup Highlights Program 2026-2027 (Ar)</title>
     <desc lang="ar">German Cup Highlights Program 2026-2027 (Ar)</desc>
     <icon src="http://mena-img-cdn-lb.aws.playco.com/admn-ingest-inhouse/ADMNADSPORTS1Y2025MAR/ADMNADSPORTS1Y2025MAR-landscape-poster-v1.jpg"/>
@@ -34162,7 +34152,7 @@
     <display-name>2 أبوظبي الرياضية</display-name>
     <icon src="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/admnadsports2/active/84f5309012f3e824633d9b9b35856dbb.png"/>
   </channel>
-  <programme start="20261102184500 +0000" stop="20261102193000 +0000" channel="Starz_admnadsports2">
+  <programme start="20261102192000 +0000" stop="20261102193000 +0000" channel="Starz_admnadsports2">
     <title lang="ar">UCI BMX Racing World Cup 2026</title>
     <desc lang="ar">UCI BMX Racing World Cup 2026</desc>
     <icon src="http://mena-img-cdn-lb.aws.playco.com/admn-ingest-inhouse/ADMNADSPORTS2Y2025MAR/ADMNADSPORTS2Y2025MAR-landscape-poster-v1.jpg"/>
@@ -34416,12 +34406,7 @@
     <display-name>ستارز بلاي سبورتس 1</display-name>
     <icon src="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/starzplaysports1/active/ef4231c5fe16f3cbc97c7219a04ad7be.png"/>
   </channel>
-  <programme start="20261102184500 +0000" stop="20261102191500 +0000" channel="Starz_starzplaysports1">
-    <title lang="ar">ساسولو × فيورنتينا - الدوري الإيطالي</title>
-    <desc lang="ar">ترقّبوا منافسات الدوري الإيطالي لكرة القدم Serie A، حيث تتصارع أعرق الأندية على لقب السكوديتو، والمقاعد الأوروبية، فيما تخوض فرق أخرى معركة البقاء وتفادي الهبوط.</desc>
-    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG67844_landscape10-0fb7e283-14c6-4ded-8dc4-b30aedc30937.jpg"/>
-  </programme>
-  <programme start="20261102191500 +0000" stop="20261102193000 +0000" channel="Starz_starzplaysports1">
+  <programme start="20261102192000 +0000" stop="20261102193000 +0000" channel="Starz_starzplaysports1">
     <title lang="ar">مقتطفات من الدوري الإيطالي</title>
     <desc lang="ar">لا تفوتوا أهم تحليلات المباريات مع المحللين الرياضين واللاعبين والمدربين... إضافة إلى أهم الأخبار الكروية وأروع الأهداف خلال الموسم. </desc>
     <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG98671_landscape10-6e4f7ed7-7c20-45f1-9da6-0d13d750b2df.jpg"/>
@@ -34901,16 +34886,16 @@
     <desc lang="ar">تغطي القناة مختلف الأحداث الرياضية من جميع أنحاء العالم.</desc>
     <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG534880_landscape10-5cd11f7a-e3e3-4f71-b1b6-cd124a55b729.jpg"/>
   </programme>
+  <programme start="20261106190000 +0000" stop="20261106200000 +0000" channel="Starz_starzplaysports1">
+    <title lang="ar">StarzPLAY Sports 1</title>
+    <desc lang="ar">تغطي القناة مختلف الأحداث الرياضية من جميع أنحاء العالم.</desc>
+    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG534880_landscape10-5cd11f7a-e3e3-4f71-b1b6-cd124a55b729.jpg"/>
+  </programme>
   <channel id="Starz_starzplaysports2">
     <display-name>أبوظبي الرياضية بريميوم 2 - الدوري الإيطالي</display-name>
     <icon src="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/starzplaysports2/active/7f3318d8cd582c3e98cb7be5b3aabe19.png"/>
   </channel>
-  <programme start="20261102184500 +0000" stop="20261102191500 +0000" channel="Starz_starzplaysports2">
-    <title lang="ar">ساسولو × فيورنتينا - الدوري الإيطالي</title>
-    <desc lang="ar">ترقّبوا منافسات الدوري الإيطالي لكرة القدم Serie A، حيث تتصارع أعرق الأندية على لقب السكوديتو، والمقاعد الأوروبية، فيما تخوض فرق أخرى معركة البقاء وتفادي الهبوط.</desc>
-    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG67844_landscape10-0fb7e283-14c6-4ded-8dc4-b30aedc30937.jpg"/>
-  </programme>
-  <programme start="20261102191500 +0000" stop="20261102192000 +0000" channel="Starz_starzplaysports2">
+  <programme start="20261102192000 +0000" stop="20261102192000 +0000" channel="Starz_starzplaysports2">
     <title lang="ar">مقتطفات من الدوري الإيطالي</title>
     <desc lang="ar">لا تفوتوا أهم تحليلات المباريات مع المحللين الرياضين واللاعبين والمدربين... إضافة إلى أهم الأخبار الكروية وأروع الأهداف خلال الموسم. </desc>
     <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG98671_landscape10-6e4f7ed7-7c20-45f1-9da6-0d13d750b2df.jpg"/>
@@ -35405,16 +35390,16 @@
     <desc lang="ar">تغطي القناة مختلف الأحداث الرياضية من جميع أنحاء العالم.</desc>
     <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG534883_landscape10-e05946c0-4a16-41e7-815a-fb6510e3c15b.jpg"/>
   </programme>
+  <programme start="20261106190000 +0000" stop="20261106200000 +0000" channel="Starz_starzplaysports2">
+    <title lang="ar">StarzPLAY Sports 2</title>
+    <desc lang="ar">تغطي القناة مختلف الأحداث الرياضية من جميع أنحاء العالم.</desc>
+    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG534883_landscape10-e05946c0-4a16-41e7-815a-fb6510e3c15b.jpg"/>
+  </programme>
   <channel id="Starz_cricbuzz1">
     <display-name>كريكبز 1</display-name>
     <icon src="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/criclife2-active.png"/>
   </channel>
-  <programme start="20261102184500 +0000" stop="20261102190200 +0000" channel="Starz_cricbuzz1">
-    <title lang="ar">كريكيت هايلايتس</title>
-    <desc lang="ar">‫‫أبرز أحداث المنافسة من مباراة كريكيت، إذ تتنافس منتخبات من أجل تحقيق النصر والفوز باللقب المنشود.‬‬</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/fWTPPMwI.jpg"/>
-  </programme>
-  <programme start="20261102190200 +0000" stop="20261102193300 +0000" channel="Starz_cricbuzz1">
+  <programme start="20261102192000 +0000" stop="20261102193300 +0000" channel="Starz_cricbuzz1">
     <title lang="ar">سي بي إل تي٢٠ هايلايتس</title>
     <desc lang="ar">‫‫أبرز أحداث مباراة الكريكيت التي تتضمن ضربات مثيرة بالمضرب ورميات ماهرة للكرة والتقاطات مذهلة ونهايات حماسية مثيرة للأعصاب، بينما تتنافس الفرق على الفوز.‬‬</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/fWTPPMwI.jpg"/>
@@ -36133,17 +36118,7 @@
     <display-name>كريكبز 2</display-name>
     <icon src="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/criclife3-active.png"/>
   </channel>
-  <programme start="20261102184500 +0000" stop="20261102185300 +0000" channel="Starz_criclife3">
-    <title lang="ar">تي٢٠ كريكيت</title>
-    <desc lang="ar">‫‫يتنافس لاعبون محترفون من فرق مختلفة في بطولة تي٢٠ للكريكيت، إذ يتنافسون من أجل الفوز بالمباراة المرموقة.‬‬</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/WklLHqAg.jpg"/>
-  </programme>
-  <programme start="20261102185300 +0000" stop="20261102191700 +0000" channel="Starz_criclife3">
-    <title lang="ar">وومنز بغ باش</title>
-    <desc lang="ar">‫‫تخوض نخبة من لاعبات الكريكيت مواجهات مثيرة ضمن بطولة تي ٢٠، مستعرضات مهاراتهن وشغفهن في أبرز منافسات الكريكيت بأستراليا مما يثير حماس الجماهير في جميع أنحاء البلاد.‬‬</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p13556473_b_h8_ad.jpg"/>
-  </programme>
-  <programme start="20261102191700 +0000" stop="20261102194100 +0000" channel="Starz_criclife3">
+  <programme start="20261102192000 +0000" stop="20261102194100 +0000" channel="Starz_criclife3">
     <title lang="ar">وومنز بغ باش</title>
     <desc lang="ar">‫‫تخوض نخبة من لاعبات الكريكيت مواجهات مثيرة ضمن بطولة تي ٢٠، مستعرضات مهاراتهن وشغفهن في أبرز منافسات الكريكيت بأستراليا مما يثير حماس الجماهير في جميع أنحاء البلاد.‬‬</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p13556473_b_h8_ad.jpg"/>
@@ -36858,16 +36833,16 @@
     <desc lang="ar">‫‫تخوض نخبة من لاعبات الكريكيت مواجهات مثيرة ضمن بطولة تي ٢٠، مستعرضات مهاراتهن وشغفهن في أبرز منافسات الكريكيت بأستراليا مما يثير حماس الجماهير في جميع أنحاء البلاد.‬‬</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p13556473_b_h8_ad.jpg"/>
   </programme>
+  <programme start="20261106190300 +0000" stop="20261106193100 +0000" channel="Starz_criclife3">
+    <title lang="ar">كريكيت هايلايتس</title>
+    <desc lang="ar">‫‫أبرز أحداث المنافسة من مباراة كريكيت، إذ تتنافس منتخبات من أجل تحقيق النصر والفوز باللقب المنشود.‬‬</desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/WklLHqAg.jpg"/>
+  </programme>
   <channel id="Starz_admnalemarattv">
     <display-name>قناة الإمارات</display-name>
     <icon src="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/admnalemarattv/active/2b6092733df431e839de5e8b5acc5170.png"/>
   </channel>
-  <programme start="20261102184500 +0000" stop="20261102190000 +0000" channel="Starz_admnalemarattv">
-    <title lang="ar">Kayd Al-Hareem</title>
-    <desc lang="ar">A classic car bearing a unique number plate has Bou Thanyan play by women's rules as he tries to acquire it from Sumayya &amp; offer it as Amani’s dowry while Hanadi manipulates him throughout the dilemma.</desc>
-    <icon src="http://mena-img-cdn-lb.aws.playco.com/admn-ingest-inhouse/ADMNEMIRATESCHANNELY2025MAR/ADMNEMIRATESCHANNELY2025MAR-landscape-poster-v1.jpg"/>
-  </programme>
-  <programme start="20261102190000 +0000" stop="20261102200000 +0000" channel="Starz_admnalemarattv">
+  <programme start="20261102192000 +0000" stop="20261102200000 +0000" channel="Starz_admnalemarattv">
     <title lang="ar">Shighaab</title>
     <desc lang="ar">From the epic Emirati pearl-diving past and abundant folktales, a narrative is woven to tell the story of pearl earrings that embody the eternal struggle between good and evil.</desc>
     <icon src="http://mena-img-cdn-lb.aws.playco.com/admn-ingest-inhouse/ADMNEMIRATESCHANNELY2025MAR/ADMNEMIRATESCHANNELY2025MAR-landscape-poster-v1.jpg"/>
@@ -37482,16 +37457,16 @@
     <desc lang="ar">A classic car bearing a unique number plate has Bou Thanyan play by women's rules as he tries to acquire it from Sumayya &amp; offer it as Amani’s dowry while Hanadi manipulates him throughout the dilemma.</desc>
     <icon src="http://mena-img-cdn-lb.aws.playco.com/admn-ingest-inhouse/ADMNEMIRATESCHANNELY2025MAR/ADMNEMIRATESCHANNELY2025MAR-landscape-poster-v1.jpg"/>
   </programme>
+  <programme start="20261106190000 +0000" stop="20261106200000 +0000" channel="Starz_admnalemarattv">
+    <title lang="ar">Shighaab</title>
+    <desc lang="ar">From the epic Emirati pearl-diving past and abundant folktales, a narrative is woven to tell the story of pearl earrings that embody the eternal struggle between good and evil.</desc>
+    <icon src="http://mena-img-cdn-lb.aws.playco.com/admn-ingest-inhouse/ADMNEMIRATESCHANNELY2025MAR/ADMNEMIRATESCHANNELY2025MAR-landscape-poster-v1.jpg"/>
+  </programme>
   <channel id="Starz_admnabudhabichannel">
     <display-name>قناة أبوظبي</display-name>
     <icon src="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/admnabudhabichannel/active/5053dc59a6720698c26127b27e5e2098.png"/>
   </channel>
-  <programme start="20261102184500 +0000" stop="20261102190000 +0000" channel="Starz_admnabudhabichannel">
-    <title lang="ar">Al-Satr Al-Akheer (S10) (2026)</title>
-    <desc lang="ar">Al-Satr Al-Akheer (S10) (2026): Ep   1</desc>
-    <icon src="http://mena-img-cdn-lb.aws.playco.com/admn-ingest-inhouse/ADMNABUDHABICHANNELY2025MAR/ADMNABUDHABICHANNELY2025MAR-landscape-poster-v1.jpg"/>
-  </programme>
-  <programme start="20261102190000 +0000" stop="20261102200000 +0000" channel="Starz_admnabudhabichannel">
+  <programme start="20261102192000 +0000" stop="20261102200000 +0000" channel="Starz_admnabudhabichannel">
     <title lang="ar">North Star (S1)</title>
     <desc lang="ar">North Star (S1): Ep  37</desc>
     <icon src="http://mena-img-cdn-lb.aws.playco.com/admn-ingest-inhouse/ADMNABUDHABICHANNELY2025MAR/ADMNABUDHABICHANNELY2025MAR-landscape-poster-v1.jpg"/>
@@ -38056,16 +38031,16 @@
     <desc lang="ar">Al-Satr Al-Akheer (S10) (2026): Ep  29</desc>
     <icon src="http://mena-img-cdn-lb.aws.playco.com/admn-ingest-inhouse/ADMNABUDHABICHANNELY2025MAR/ADMNABUDHABICHANNELY2025MAR-landscape-poster-v1.jpg"/>
   </programme>
+  <programme start="20261106190000 +0000" stop="20261106200000 +0000" channel="Starz_admnabudhabichannel">
+    <title lang="ar">North Star (S1)</title>
+    <desc lang="ar">North Star (S1): Ep  41</desc>
+    <icon src="http://mena-img-cdn-lb.aws.playco.com/admn-ingest-inhouse/ADMNABUDHABICHANNELY2025MAR/ADMNABUDHABICHANNELY2025MAR-landscape-poster-v1.jpg"/>
+  </programme>
   <channel id="Starz_nationalgeographicabudhabitv">
     <display-name>ناشيونال جيوغرافيك أبوظبي</display-name>
     <icon src="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/nationalgeographicabudhabitv/active/28116b613c9c8ccbb1a27a47cc862b6c.png"/>
   </channel>
-  <programme start="20261102184500 +0000" stop="20261102190000 +0000" channel="Starz_nationalgeographicabudhabitv">
-    <title lang="ar">Construction Fails</title>
-    <desc lang="ar">Construction Fails 2</desc>
-    <icon src="http://mena-img-cdn-lb.aws.playco.com/admn-ingest-inhouse/ADMNNATIONALGEOGRAPHICY2025MAR/ADMNNATIONALGEOGRAPHICY2025MAR-landscape-poster-v1.jpg"/>
-  </programme>
-  <programme start="20261102190000 +0000" stop="20261102194000 +0000" channel="Starz_nationalgeographicabudhabitv">
+  <programme start="20261102192000 +0000" stop="20261102194000 +0000" channel="Starz_nationalgeographicabudhabitv">
     <title lang="ar">Lost Ships of WWII</title>
     <desc lang="ar">Lost Ships of WWII  1</desc>
     <icon src="http://mena-img-cdn-lb.aws.playco.com/admn-ingest-inhouse/ADMNNATIONALGEOGRAPHICY2025MAR/ADMNNATIONALGEOGRAPHICY2025MAR-landscape-poster-v1.jpg"/>
@@ -38745,16 +38720,16 @@
     <desc lang="ar">Alaska: The Next Generation 3</desc>
     <icon src="http://mena-img-cdn-lb.aws.playco.com/admn-ingest-inhouse/ADMNNATIONALGEOGRAPHICY2025MAR/ADMNNATIONALGEOGRAPHICY2025MAR-landscape-poster-v1.jpg"/>
   </programme>
+  <programme start="20261106190000 +0000" stop="20261106194000 +0000" channel="Starz_nationalgeographicabudhabitv">
+    <title lang="ar">Trafficked with Mariana van Zeller</title>
+    <desc lang="ar">Trafficked with Mariana van Zeller 2</desc>
+    <icon src="http://mena-img-cdn-lb.aws.playco.com/admn-ingest-inhouse/ADMNNATIONALGEOGRAPHICY2025MAR/ADMNNATIONALGEOGRAPHICY2025MAR-landscape-poster-v1.jpg"/>
+  </programme>
   <channel id="Starz_starworld">
     <display-name>ستار وورلد</display-name>
     <icon src="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/starworld/active/5a1df0b11de0f12a7e9ca99c312d4048.png"/>
   </channel>
-  <programme start="20261102184500 +0000" stop="20261102190000 +0000" channel="Starz_starworld">
-    <title lang="ar">The Open Road</title>
-    <desc lang="ar">‫م1 ، ح4 : ‬</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p8206552_b_h10_ac.jpg"/>
-  </programme>
-  <programme start="20261102190000 +0000" stop="20261102200000 +0000" channel="Starz_starworld">
+  <programme start="20261102192000 +0000" stop="20261102200000 +0000" channel="Starz_starworld">
     <title lang="ar">Extreme Makeover: Home Edition</title>
     <desc lang="ar">‫م1 ، ح8 : ‬</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p28743667_b_h8_aa.jpg"/>
@@ -39354,11 +39329,16 @@
     <desc lang="ar">‫م4 ، ح3 : ‫في إطار البحث عن أفضل المواهب البريطانية القادمة، يتنافس مغنون وراقصون وكوميديون ومواهب متنوعة فريدة من نوعها للفوز بجائزة نقدية والحصول على فرصة المشاركة في برنامج (رويال فيرايتي بيرفورمنس).‬‬</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p8112701_b_h10_aa.jpg"/>
   </programme>
+  <programme start="20261106190000 +0000" stop="20261106200000 +0000" channel="Starz_starworld">
+    <title lang="ar">هويل كوستيرا</title>
+    <desc lang="ar">‫م1 ، ح5 : ‫يعود دانييل دي لوكا وهو جندي مشاة البحرية سابق إلى إيطاليا للعمل في فندق فاخر في مدينة بوزيتانو، ولكن بعد وقت قصير من وصوله تختفي ابنة صاحب الفندق في ظروف غامضة، ويجد دي لوكا نفسه مكلفا بمهمة البحث عنها واستعادتها.‬‬</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p31068402_b_h8_ad.jpg"/>
+  </programme>
   <channel id="Starz_starmovies">
     <display-name>ستار موفيز</display-name>
     <icon src="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/starmovies/active/0e6c283b23ba89b0c33f18d8e82b9bdd.png"/>
   </channel>
-  <programme start="20261102184500 +0000" stop="20261102201500 +0000" channel="Starz_starmovies">
+  <programme start="20261102192000 +0000" stop="20261102201500 +0000" channel="Starz_starmovies">
     <title lang="ar">أدرفت</title>
     <desc lang="ar">‫‫تقع كارثة عندما يبحر تامي أولدهام وريتشارد شارب خلال إعصار يدمر قاربهما. مع إصابة ريتشارد بجروح بالغة وفقدان الأمل في إنقاذه، تسابق تامي الوقت لإنقاذ نفسها والرجل الوحيد الذي أحبته.‬‬</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p15100879_v_h10_ab.jpg"/>
@@ -39638,11 +39618,16 @@
     <desc lang="ar">‫‫تفقد شابة زوجها إثر إصابته بمرض، لكن حياتها تتخذ منعطفا جديدا حين تكتشف أنه ترك لها بعض الرسائل لتخفيف ألمها.‬‬</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p170981_v_h10_aq.jpg"/>
   </programme>
+  <programme start="20261106190000 +0000" stop="20261106203500 +0000" channel="Starz_starmovies">
+    <title lang="ar">مايندكيج</title>
+    <desc lang="ar">‫‫يلتقي المحققان جيك دويل وماري كيلي بقاتل مسجون يعرف بذي آرتست ليساعدهما في القبض على قاتل متسلسل يتبع أسلوبه في ارتكاب الجرائم.‬‬</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p22500331_v_h8_aa.jpg"/>
+  </programme>
   <channel id="Starz_staraction">
     <display-name>ستار أكشن</display-name>
     <icon src="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/staraction/active/3f9b26b936a71cfa153a35ca51e12e1b.png"/>
   </channel>
-  <programme start="20261102184500 +0000" stop="20261102195000 +0000" channel="Starz_staraction">
+  <programme start="20261102192000 +0000" stop="20261102195000 +0000" channel="Starz_staraction">
     <title lang="ar">ذا مير رانر</title>
     <desc lang="ar">‫‫يجد صبي نفسه محاصرا داخل متاهة عملاقة دون أي ذكريات عن ماضيه. مع ذلك، يجب عليه التعاون مع فتية آخرين يشاركونه المصير نفسه للهروب من المتاهة واكتشاف الحقيقة.‬‬</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p10172717_v_h10_aq.jpg"/>
@@ -39916,17 +39901,7 @@
     <display-name>ديزني تشانل</display-name>
     <icon src="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/disneychannels/active/9ebfd9ba6f399e7de6f46335bdb86e2e.png"/>
   </channel>
-  <programme start="20261102184500 +0000" stop="20261102185000 +0000" channel="Starz_disneychannel">
-    <title lang="ar">ميراكيولوس: تيلز أوف ليديباغ آند كات نوار</title>
-    <desc lang="ar">‫م6 ، ح4 : ‫توكل مهمة القبض على المخلوقات التي تجعل الناس أشرارا إلى طالبي المدرسة الثانوية مارينيت وإيدرين، لذلك يصبح الاثنان بطلين خارقين، لكن دون أن يعلم أحدهما عن هوية الآخر.‬‬</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29234963_b_h8_ae.jpg"/>
-  </programme>
-  <programme start="20261102185000 +0000" stop="20261102185500 +0000" channel="Starz_disneychannel">
-    <title lang="ar">ميراكولس: تيلز أوف ليديبغ آند كات نوير شيبي</title>
-    <desc lang="ar">‫م1 ، ح29 : ‫ستقوم مارينيت بأي شيء للفوز بقلب أدريان ويستخدم القط الأسود كل حيلة ممكنة لكسب ود الدعسوقة، لكن حين يتعلق الأمر بالحب، لا تسير الأمور كما هو مخطط لها.‬‬</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p32902001_b_h8_ac.jpg"/>
-  </programme>
-  <programme start="20261102185500 +0000" stop="20261102192000 +0000" channel="Starz_disneychannel">
+  <programme start="20261102192000 +0000" stop="20261102192000 +0000" channel="Starz_disneychannel">
     <title lang="ar">The Doomies</title>
     <desc lang="ar">‫م1 ، ح4 : ‬</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p33427300_b_h8_aa.jpg"/>
@@ -41241,16 +41216,26 @@
     <desc lang="ar">‫م4 ، ح1 : ‫توكل مهمة القبض على المخلوقات التي تجعل الناس أشرارا إلى طالبي المدرسة الثانوية مارينيت وإيدرين، لذلك يصبح الاثنان بطلين خارقين، لكن دون أن يعلم أحدهما عن هوية الآخر.‬‬</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p19701468_b_h8_ah.jpg"/>
   </programme>
+  <programme start="20261106185000 +0000" stop="20261106185500 +0000" channel="Starz_disneychannel">
+    <title lang="ar">ميراكولس: تيلز أوف ليديبغ آند كات نوير شيبي</title>
+    <desc lang="ar">‫م1 ، ح29 : ‫ستقوم مارينيت بأي شيء للفوز بقلب أدريان ويستخدم القط الأسود كل حيلة ممكنة لكسب ود الدعسوقة، لكن حين يتعلق الأمر بالحب، لا تسير الأمور كما هو مخطط لها.‬‬</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p32902001_b_h8_ac.jpg"/>
+  </programme>
+  <programme start="20261106185500 +0000" stop="20261106192000 +0000" channel="Starz_disneychannel">
+    <title lang="ar">The Doomies</title>
+    <desc lang="ar">‫م1 ، ح8 : ‬</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p33427300_b_h8_aa.jpg"/>
+  </programme>
+  <programme start="20261106192000 +0000" stop="20261106194500 +0000" channel="Starz_disneychannel">
+    <title lang="ar">فامبيرينا: تيتيج فامباير</title>
+    <desc lang="ar">‫م1 ، ح3 : ‫تترك في موطنها ترانسلفانيا لتبدأ رحلة جديدة في مدرسة داخلية، مدفوعة بشغفها الموسيقي وأحلامها الكبيرة، ومع محاولاتها المستميتة لإخفاء هويتها كمصاصة دماء، تظهر في طريقها عقبات غير متوقعة قد تطفئ أنوار أحلامها وتعيدها قسرا إلى عالم الظلال.‬‬</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p31067542_b_h8_ab.jpg"/>
+  </programme>
   <channel id="Starz_disney-jr">
     <display-name>ديزني جونيور</display-name>
     <icon src="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/disney-jr/active/6da9a9fa9dc9c7cf63973b092f490efe.png"/>
   </channel>
-  <programme start="20261102184500 +0000" stop="20261102190500 +0000" channel="Starz_disney-jr">
-    <title lang="ar">سوبركيتيز</title>
-    <desc lang="ar">‫م1 ، ح26 : ‫تتمتع أربع قطط منزلية بقوى خاصة تجعل منها قططا خارقة كلما تم طلب المساعدة منها. علاوة على ذلك، تستخدم أدوات مختلفة لحل المشكلات.‬‬</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p23684192_b_h8_aa.jpg"/>
-  </programme>
-  <programme start="20261102190500 +0000" stop="20261102193000 +0000" channel="Starz_disney-jr">
+  <programme start="20261102192000 +0000" stop="20261102193000 +0000" channel="Starz_disney-jr">
     <title lang="ar">بيبستراكشن</title>
     <desc lang="ar">‫م2 ، ح25 : ‫يعمل فريق بيبستراكشن بجد لإنهاء المشاريع في مدينة بيتسبرغ، ولكن يجب عليه أن يخوض منافسة ضد فريق شركة البناء ليكيتي سبليت.‬‬</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p28428563_b_h8_aa.jpg"/>
@@ -43250,31 +43235,16 @@
     <desc lang="ar">‫م2 ، ح21 : ‫تتمتع أربع قطط منزلية بقوى خاصة تجعل منها قططا خارقة كلما تم طلب المساعدة منها. علاوة على ذلك، تستخدم أدوات مختلفة لحل المشكلات.‬‬</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p26844132_b_h8_ab.jpg"/>
   </programme>
+  <programme start="20261106190500 +0000" stop="20261106193000 +0000" channel="Starz_disney-jr">
+    <title lang="ar">بيبستراكشن</title>
+    <desc lang="ar">‫م2 ، ح23 : ‫يعمل فريق بيبستراكشن بجد لإنهاء المشاريع في مدينة بيتسبرغ، ولكن يجب عليه أن يخوض منافسة ضد فريق شركة البناء ليكيتي سبليت.‬‬</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p28428563_b_h8_aa.jpg"/>
+  </programme>
   <channel id="Starz_admnmajidtv">
     <display-name>قناة ماجد</display-name>
     <icon src="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/admnmajidtv/active/5163ffff9fd071945b7d1c2691be5582.png"/>
   </channel>
-  <programme start="20261102184500 +0000" stop="20261102184500 +0000" channel="Starz_admnmajidtv">
-    <title lang="ar">Amouna Al Mazyouna</title>
-    <desc lang="ar">Our #1 show  She’s only five, but the sky’s her limit! Amouna goes on endless adventures to discover the incredible world around her in which reality meets fiction</desc>
-    <icon src="http://mena-img-cdn-lb.aws.playco.com/admn-ingest-inhouse/ADMNMAJIDCHILDRENCHANNELY2025MAR/ADMNMAJIDCHILDRENCHANNELY2025MAR-landscape-poster-v1.jpg"/>
-  </programme>
-  <programme start="20261102184500 +0000" stop="20261102190000 +0000" channel="Starz_admnmajidtv">
-    <title lang="ar">FATEEN</title>
-    <desc lang="ar">They say science is boring and dull. Fateen clearly disagrees. A 7 year-old boy who’s crazy about everything scientific. But he’s no boring nerd – he’s innovative but fun and sometimes hilarious.</desc>
-    <icon src="http://mena-img-cdn-lb.aws.playco.com/admn-ingest-inhouse/ADMNMAJIDCHILDRENCHANNELY2025MAR/ADMNMAJIDCHILDRENCHANNELY2025MAR-landscape-poster-v1.jpg"/>
-  </programme>
-  <programme start="20261102190000 +0000" stop="20261102191500 +0000" channel="Starz_admnmajidtv">
-    <title lang="ar">Shu Al Rai 2</title>
-    <desc lang="ar">Shu Al Rai 2: Ep   1</desc>
-    <icon src="http://mena-img-cdn-lb.aws.playco.com/admn-ingest-inhouse/ADMNMAJIDCHILDRENCHANNELY2025MAR/ADMNMAJIDCHILDRENCHANNELY2025MAR-landscape-poster-v1.jpg"/>
-  </programme>
-  <programme start="20261102191500 +0000" stop="20261102191800 +0000" channel="Starz_admnmajidtv">
-    <title lang="ar">GARFILED ORIGIONALS</title>
-    <desc lang="ar">GARFILED ORIGIONALS: Ep   6</desc>
-    <icon src="http://mena-img-cdn-lb.aws.playco.com/admn-ingest-inhouse/ADMNMAJIDCHILDRENCHANNELY2025MAR/ADMNMAJIDCHILDRENCHANNELY2025MAR-landscape-poster-v1.jpg"/>
-  </programme>
-  <programme start="20261102191800 +0000" stop="20261102192100 +0000" channel="Starz_admnmajidtv">
+  <programme start="20261102192000 +0000" stop="20261102192100 +0000" channel="Starz_admnmajidtv">
     <title lang="ar">GARFILED ORIGIONALS</title>
     <desc lang="ar">GARFILED ORIGIONALS: Ep   7</desc>
     <icon src="http://mena-img-cdn-lb.aws.playco.com/admn-ingest-inhouse/ADMNMAJIDCHILDRENCHANNELY2025MAR/ADMNMAJIDCHILDRENCHANNELY2025MAR-landscape-poster-v1.jpg"/>
@@ -45399,16 +45369,21 @@
     <desc lang="ar">AL SAYIDA MELAAKA: Ep  25</desc>
     <icon src="http://mena-img-cdn-lb.aws.playco.com/admn-ingest-inhouse/ADMNMAJIDCHILDRENCHANNELY2025MAR/ADMNMAJIDCHILDRENCHANNELY2025MAR-landscape-poster-v1.jpg"/>
   </programme>
+  <programme start="20261106190000 +0000" stop="20261106191500 +0000" channel="Starz_admnmajidtv">
+    <title lang="ar">AL SAYIDA MELAAKA</title>
+    <desc lang="ar">AL SAYIDA MELAAKA: Ep  26</desc>
+    <icon src="http://mena-img-cdn-lb.aws.playco.com/admn-ingest-inhouse/ADMNMAJIDCHILDRENCHANNELY2025MAR/ADMNMAJIDCHILDRENCHANNELY2025MAR-landscape-poster-v1.jpg"/>
+  </programme>
+  <programme start="20261106191500 +0000" stop="20261106193000 +0000" channel="Starz_admnmajidtv">
+    <title lang="ar">AL SAYIDA MELAAKA</title>
+    <desc lang="ar">AL SAYIDA MELAAKA: Ep  27</desc>
+    <icon src="http://mena-img-cdn-lb.aws.playco.com/admn-ingest-inhouse/ADMNMAJIDCHILDRENCHANNELY2025MAR/ADMNMAJIDCHILDRENCHANNELY2025MAR-landscape-poster-v1.jpg"/>
+  </programme>
   <channel id="Starz_asianethd">
     <display-name>آسيا نت مي</display-name>
     <icon src="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/asianethd/active/ffd7f8f6bb94c02f62df1ac9cbd40d81.png"/>
   </channel>
-  <programme start="20261102184500 +0000" stop="20261102190000 +0000" channel="Starz_asianethd">
-    <title lang="ar">بيغ بوس بلس</title>
-    <desc lang="ar">‫م8 ، ح41 : ‫يعيش مشاركون من خلفيات متنوعة داخل منزل مغلق ويواجهون مهاما معقدة، بينما يخوضون نزاعات وخلافات شخصية في سبيل الفوز بالجائزة الكبرى.‬‬</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/9ipHx6hC.jpg"/>
-  </programme>
-  <programme start="20261102190000 +0000" stop="20261102193000 +0000" channel="Starz_asianethd">
+  <programme start="20261102192000 +0000" stop="20261102193000 +0000" channel="Starz_asianethd">
     <title lang="ar">لاين كت وذ أنجانا نامبيار</title>
     <desc lang="ar">‫م1 ، ح18 : ‫تتحاور المذيعة أنجانا نامبيار مع متسابقي برنامج (بيغ بوس) السابقين لاستكشاف وجهة نظرهم، ومعالجة الجدل أو الندم، ومشاركة انطباعاتهم بعد انتهاء المسابقة.‬‬</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p33906349_b_h10_aa.jpg"/>
@@ -45988,11 +45963,16 @@
     <desc lang="ar">‫م8 ، ح45 : ‫يعيش مشاركون من خلفيات متنوعة داخل منزل مغلق ويواجهون مهاما معقدة، بينما يخوضون نزاعات وخلافات شخصية في سبيل الفوز بالجائزة الكبرى.‬‬</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/9ipHx6hC.jpg"/>
   </programme>
+  <programme start="20261106190000 +0000" stop="20261106220000 +0000" channel="Starz_asianethd">
+    <title lang="ar">إيتيماني: ميد إن تشاينا</title>
+    <desc lang="ar">‫‫يدير إيتيماني، الذي نشأ في الصين، عملا لبيع المنتجات المقلدة في الهند. مع ذلك، عندما يحاول مساعدة أناما التي يتجاهلها أبناؤها، يقع في ورطة عندما تمرض.‬‬</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p17323431_v_h10_ab.jpg"/>
+  </programme>
   <channel id="Starz_asianetcinema">
     <display-name>آسيانت سينما</display-name>
     <icon src="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/asianetcinema-active.png"/>
   </channel>
-  <programme start="20261102184500 +0000" stop="20261102210000 +0000" channel="Starz_asianetcinema">
+  <programme start="20261102192000 +0000" stop="20261102210000 +0000" channel="Starz_asianetcinema">
     <title lang="ar">Movie</title>
     <desc lang="ar">Dive into Malayalam cinema with hit blockbusters and classic gems!</desc>
     <icon src="https://evisioneand.com/image/catalog/1920x1080-B.jpg"/>
@@ -46161,7 +46141,7 @@
     <display-name>كلرز إتش دي</display-name>
     <icon src="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/colorshd/active/3e8fd0ab64f1ae2e85200b9253d9868a.png"/>
   </channel>
-  <programme start="20261102184500 +0000" stop="20261102200000 +0000" channel="Starz_colorshd">
+  <programme start="20261102192000 +0000" stop="20261102200000 +0000" channel="Starz_colorshd">
     <title lang="ar">بغ بوس</title>
     <desc lang="ar">‫م20 ، ح58 : ‫يعيش عدد من المتسابقين المشاهير في منزل منعزل للقيام بمهام محددة من أجل الفوز بالجائزة النقدية المنشودة، كما يحاولون أيضاء تجنب الإقصاء.‬‬</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p33987277_b_h10_aa.jpg"/>
@@ -47050,7 +47030,7 @@
     <display-name>ستارزبلاي كريكيت 2</display-name>
     <icon src="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/criclifemax/active/6ba397ad67a5a78ddd169409236a8a8b.png"/>
   </channel>
-  <programme start="20261102184500 +0000" stop="20261102194500 +0000" channel="Starz_criclifemax">
+  <programme start="20261102192000 +0000" stop="20261102194500 +0000" channel="Starz_criclifemax">
     <title lang="ar">ICC Cricket 360</title>
     <desc lang="ar">‫‬</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/ebYrL7rv.jpg"/>
@@ -47415,12 +47395,7 @@
     <desc lang="ar">‫‬</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/ebYrL7rv.jpg"/>
   </programme>
-  <programme start="20261102184500 +0000" stop="20261102190000 +0000" channel="Starz_skynewsarabia">
-    <title lang="ar">Sky News عربية HD</title>
-    <desc lang="ar">Sky News عربية HD</desc>
-    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/News2.jpg"/>
-  </programme>
-  <programme start="20261102190000 +0000" stop="20261102200000 +0000" channel="Starz_skynewsarabia">
+  <programme start="20261102192000 +0000" stop="20261102200000 +0000" channel="Starz_skynewsarabia">
     <title lang="ar">Sky News عربية HD</title>
     <desc lang="ar">Sky News عربية HD</desc>
     <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/News2.jpg"/>
@@ -47900,16 +47875,16 @@
     <desc lang="ar">Sky News عربية HD</desc>
     <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/News2.jpg"/>
   </programme>
+  <programme start="20261106190000 +0000" stop="20261106200000 +0000" channel="Starz_skynewsarabia">
+    <title lang="ar">Sky News عربية HD</title>
+    <desc lang="ar">Sky News عربية HD</desc>
+    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/News2.jpg"/>
+  </programme>
   <channel id="Starz_skynews">
     <display-name>سكاي نيوز</display-name>
     <icon src="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/skynews/active/d8459747c839a7a4245dba1c26c69ed7.png"/>
   </channel>
-  <programme start="20261102184500 +0000" stop="20261102190000 +0000" channel="Starz_skynews">
-    <title lang="ar">بوليتكس هب وذ صوفي ريدج</title>
-    <desc lang="ar">‫‫تدعو المضيفة شخصيات سياسية بارزة وخبراء ومحللين من أجل تسليط الضوء ومناقشة أهم القصص السياسية من جميع أنحاء العالم.‬‬</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p25540742_b_h10_ad.jpg"/>
-  </programme>
-  <programme start="20261102190000 +0000" stop="20261102193000 +0000" channel="Starz_skynews">
+  <programme start="20261102192000 +0000" stop="20261102193000 +0000" channel="Starz_skynews">
     <title lang="ar">يو كيه تونايت وذ سارة-جين مي</title>
     <desc lang="ar">‫‫يعرض فريق التقديم تحليلا متعمقا لآخر التطورات ومجريات الأحداث التي تتعلق بالعديد من القضايا ذات الأهمية.‬‬</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p25771069_b_h10_aa.jpg"/>
@@ -48749,21 +48724,16 @@
     <desc lang="ar">‫‫ملخص شامل لأهم الأخبار اليومية بما في ذلك التحليلات والرؤى من مراسلي سكاي نيوز في جميع أنحاء المملكة المتحدة وحول العالم.‬‬</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p26008492_b_h8_ab.jpg"/>
   </programme>
+  <programme start="20261106190000 +0000" stop="20261106193000 +0000" channel="Starz_skynews">
+    <title lang="ar">سكاي نيوز</title>
+    <desc lang="ar">‫‫يعرض فريق التقديم رؤى مفصلة حول بعض من آخر الأخبار والشؤون الجارية والتطورات لمجموعة من الموضوعات الهامة للمصلحة العامة من جميع أنحاء العالم.‬‬</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p907196_b_h10_ad.jpg"/>
+  </programme>
   <channel id="Starz_cnninternational">
     <display-name>سي إن إن إنترناشيونال</display-name>
     <icon src="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/cnninternational/active/a214e2ce83044afc7df54bad50236dbc.png"/>
   </channel>
-  <programme start="20261102184500 +0000" stop="20261102184500 +0000" channel="Starz_cnninternational">
-    <title lang="ar">ون ورلد - مباشر</title>
-    <desc lang="ar">‫‫يعرض فريق التقديم أبرز الأخبار التي تصدرت العناوين من جميع أنحاء العالم، ويناقش أيضا ثلة كبيرة من المواضيع مع عدد من المساهمين والخبراء.‬‬</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29918775_b_h8_ab.jpg"/>
-  </programme>
-  <programme start="20261102184500 +0000" stop="20261102190000 +0000" channel="Starz_cnninternational">
-    <title lang="ar">أفريكان فويسز</title>
-    <desc lang="ar">‫‫قم بإلقاء نظرة على بعض من رواد الموضة الأفارقة الأكثر إبهارا، والذين يضفون طابعا خاصا في عالم السفر والأزياء والفن والموسيقى والتكنولوجيا والهندسة المعمارية.‬‬</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p203718_b_h8_aa.jpg"/>
-  </programme>
-  <programme start="20261102190000 +0000" stop="20261102200000 +0000" channel="Starz_cnninternational">
+  <programme start="20261102192000 +0000" stop="20261102200000 +0000" channel="Starz_cnninternational">
     <title lang="ar">إيسا سواريس تونايت - مباشر</title>
     <desc lang="ar">‫‫تتفاعل المضيفة إيسا سواريس مع ضيوف مميزين وتجري محادثة مفيدة معهم حول أهم الأخبار والتقارير من جميع أنحاء العالم.‬‬</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p22504907_b_h8_ae.jpg"/>
@@ -49253,11 +49223,16 @@
     <desc lang="ar">‫‫تتحدث الصحفية البريطانية الإيرانية كريستيان آمانبور مع شخصيات بارزة حول القضايا الهامة التي تؤثر على الناس. ‬‬</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p7827806_b_h10_ad.jpg"/>
   </programme>
+  <programme start="20261106190000 +0000" stop="20261106200000 +0000" channel="Starz_cnninternational">
+    <title lang="ar">إيسا سواريس تونايت - مباشر</title>
+    <desc lang="ar">‫‫تتفاعل المضيفة إيسا سواريس مع ضيوف مميزين وتجري محادثة مفيدة معهم حول أهم الأخبار والتقارير من جميع أنحاء العالم.‬‬</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p22504907_b_h8_ae.jpg"/>
+  </programme>
   <channel id="Starz_indiatoday">
     <display-name>قناة إنديا توداي التلفزيونية</display-name>
     <icon src="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/india-today-active.png"/>
   </channel>
-  <programme start="20261102184500 +0000" stop="20261102213000 +0000" channel="Starz_indiatoday">
+  <programme start="20261102192000 +0000" stop="20261102213000 +0000" channel="Starz_indiatoday">
     <title lang="ar">نيوز</title>
     <desc lang="ar">‫‫يعرض فريق التقديم تقريرا شاملا ومفصلا حول آخر الأخبار والمستجدات والتطورات الجارية في جميع أنحاء العالم.‬‬</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/qARVxF9Y.jpg"/>
@@ -49426,12 +49401,7 @@
     <display-name>ريبابليك تي في</display-name>
     <icon src="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/republictv/active/460c1490653cec76b7f7426ce5ff2640.png"/>
   </channel>
-  <programme start="20261102184500 +0000" stop="20261102190000 +0000" channel="Starz_republictv">
-    <title lang="ar">آر نيوز</title>
-    <desc lang="ar">‫‫يستعرض فريق التقديم آخر المستجدات والعناوين الرئيسية حول القضايا الاجتماعية والاقتصادية والسياسية، وكما يشارك آخر المعلومات حول الأحداث الجارية.‬‬</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/i5nHMbdU.jpg"/>
-  </programme>
-  <programme start="20261102190000 +0000" stop="20261102193000 +0000" channel="Starz_republictv">
+  <programme start="20261102192000 +0000" stop="20261102193000 +0000" channel="Starz_republictv">
     <title lang="ar">آر نيوز</title>
     <desc lang="ar">‫‫يستعرض فريق التقديم آخر المستجدات والعناوين الرئيسية حول القضايا الاجتماعية والاقتصادية والسياسية، وكما يشارك آخر المعلومات حول الأحداث الجارية.‬‬</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/i5nHMbdU.jpg"/>
@@ -50351,16 +50321,16 @@
     <desc lang="ar">‫‫يستعرض فريق التقديم آخر المستجدات والعناوين الرئيسية حول القضايا الاجتماعية والاقتصادية والسياسية، وكما يشارك آخر المعلومات حول الأحداث الجارية.‬‬</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/i5nHMbdU.jpg"/>
   </programme>
+  <programme start="20261106190000 +0000" stop="20261106193000 +0000" channel="Starz_republictv">
+    <title lang="ar">آر نيوز</title>
+    <desc lang="ar">‫‫يستعرض فريق التقديم آخر المستجدات والعناوين الرئيسية حول القضايا الاجتماعية والاقتصادية والسياسية، وكما يشارك آخر المعلومات حول الأحداث الجارية.‬‬</desc>
+    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/i5nHMbdU.jpg"/>
+  </programme>
   <channel id="Starz_asianetnews">
     <display-name>آسيانيت نيوز</display-name>
     <icon src="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/anews-active.png"/>
   </channel>
-  <programme start="20261102184500 +0000" stop="20261102185500 +0000" channel="Starz_asianetnews">
-    <title lang="ar">تايمز أوف كويت</title>
-    <desc lang="ar">‫‫يعرض فريق التقديم آخر الأخبار والمستجدات الجارية في الكويت، ويتفاعل مع عدد من المغتربين المالاياليين للتعرف على نمط حياتهم.‬‬</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p15749588_b_h8_aa.jpg"/>
-  </programme>
-  <programme start="20261102185500 +0000" stop="20261102194500 +0000" channel="Starz_asianetnews">
+  <programme start="20261102192000 +0000" stop="20261102194500 +0000" channel="Starz_asianetnews">
     <title lang="ar">نيوز أور</title>
     <desc lang="ar">‫‫يقدم فريق التقديم آخر الأخبار والتطورات المحيطة بمختلف القضايا السياسية والاجتماعية والاقتصادية في جميع أنحاء العالم.‬‬</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29175317_b_h8_aa.jpg"/>
@@ -51655,16 +51625,16 @@
     <desc lang="ar">‫‫يسلط فريق التقديم الضوء على قضايا مختلفة تتعلق بالمغتربين المقيمين في منطقة الخليج، إذ يتحدث عن طبيعة الحياة التي يعيشونها.‬‬</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29933748_b_h10_ab.jpg"/>
   </programme>
+  <programme start="20261106185500 +0000" stop="20261106194500 +0000" channel="Starz_asianetnews">
+    <title lang="ar">نيوز أور</title>
+    <desc lang="ar">‫‫يقدم فريق التقديم آخر الأخبار والتطورات المحيطة بمختلف القضايا السياسية والاجتماعية والاقتصادية في جميع أنحاء العالم.‬‬</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29175317_b_h8_aa.jpg"/>
+  </programme>
   <channel id="Starz_manoramanews">
     <display-name>مانوراما نيوز</display-name>
     <icon src="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/manoramanews/active/cbd04ba3010ca27d297f93d60395c575.png"/>
   </channel>
-  <programme start="20261102184500 +0000" stop="20261102191500 +0000" channel="Starz_manoramanews">
-    <title lang="ar">كاونتر بوينت</title>
-    <desc lang="ar">‫‫يجري فريق التقديم مناقشة بين مجموعة من الخبراء من مختلف المجالات، إذ يتحدثون عن وجهات نظرهم وآرائهم حول مواضيع معينة.‬‬</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p15135965_b_h10_ab.jpg"/>
-  </programme>
-  <programme start="20261102191500 +0000" stop="20261102194000 +0000" channel="Starz_manoramanews">
+  <programme start="20261102192000 +0000" stop="20261102194000 +0000" channel="Starz_manoramanews">
     <title lang="ar">لو آند أوردر</title>
     <desc lang="ar">‫‫يتعمق فريق التقديم في الأحكام القضائية الهامة والخلافات القانونية، مسلطا الضوء على كيفية تشكيل تلك القرارات للمجتمعات وتأثيرها في السياسات.‬‬</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p31374015_b_h10_ab.jpg"/>
@@ -52464,11 +52434,16 @@
     <desc lang="ar">‫‫يجري فريق التقديم مناقشة بين مجموعة من الخبراء من مختلف المجالات، إذ يتحدثون عن وجهات نظرهم وآرائهم حول مواضيع معينة.‬‬</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p15135965_b_h10_ab.jpg"/>
   </programme>
+  <programme start="20261106191500 +0000" stop="20261106194000 +0000" channel="Starz_manoramanews">
+    <title lang="ar">لو آند أوردر</title>
+    <desc lang="ar">‫‫يتعمق فريق التقديم في الأحكام القضائية الهامة والخلافات القانونية، مسلطا الضوء على كيفية تشكيل تلك القرارات للمجتمعات وتأثيرها في السياسات.‬‬</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p31374015_b_h10_ab.jpg"/>
+  </programme>
   <channel id="Starz_reportertv">
     <display-name>ريبورتر تي في</display-name>
     <icon src="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/reportertv/active/1cf2c8b05a8a30f16d492d91a9772796.png"/>
   </channel>
-  <programme start="20261102184500 +0000" stop="20261102193000 +0000" channel="Starz_reportertv">
+  <programme start="20261102192000 +0000" stop="20261102193000 +0000" channel="Starz_reportertv">
     <title lang="ar">ميت ذا إديتورز</title>
     <desc lang="ar">‫‫يستضيف فريق التقديم عدد من المحررين والخبراء في مناقشات مثيرة للتفكير، ويستكشف آثار القرارات السياسية والقضايا الرئيسية التي تشكل العالم.‬‬</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p29740809_b_h10_aa.jpg"/>
@@ -52897,12 +52872,7 @@
     <display-name>الشرق بلومبرغ</display-name>
     <icon src="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/alsharqnews-active.png"/>
   </channel>
-  <programme start="20261102184500 +0000" stop="20261102190000 +0000" channel="Starz_bloombergasharqlive">
-    <title lang="ar">الشرق</title>
-    <desc lang="ar">الشرق</desc>
-    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/News1.jpg"/>
-  </programme>
-  <programme start="20261102190000 +0000" stop="20261102200000 +0000" channel="Starz_bloombergasharqlive">
+  <programme start="20261102192000 +0000" stop="20261102200000 +0000" channel="Starz_bloombergasharqlive">
     <title lang="ar">الشرق</title>
     <desc lang="ar">الشرق</desc>
     <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/News1.jpg"/>
@@ -53382,16 +53352,16 @@
     <desc lang="ar">الشرق</desc>
     <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/News1.jpg"/>
   </programme>
+  <programme start="20261106190000 +0000" stop="20261106200000 +0000" channel="Starz_bloombergasharqlive">
+    <title lang="ar">الشرق</title>
+    <desc lang="ar">الشرق</desc>
+    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/News1.jpg"/>
+  </programme>
   <channel id="Starz_cnbcarabiya">
     <display-name>سي إن بي سي عربية - مباشر</display-name>
     <icon src="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/cnbc-active.png"/>
   </channel>
-  <programme start="20261102184500 +0000" stop="20261102190000 +0000" channel="Starz_cnbcarabiya">
-    <title lang="ar">تحت الضوء</title>
-    <desc lang="ar">‫‫يقوم المضيف بتسليط الضوء على أحدث الأخبار والتطورات والمستجدات المالية من أنحاء العالم، أثناء تفاعله مع مختلف الخبراء.‬‬</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p27225106_b_h10_ab.jpg"/>
-  </programme>
-  <programme start="20261102190000 +0000" stop="20261102200000 +0000" channel="Starz_cnbcarabiya">
+  <programme start="20261102192000 +0000" stop="20261102200000 +0000" channel="Starz_cnbcarabiya">
     <title lang="ar">كلام أسواق</title>
     <desc lang="ar">‫‫يعرض عدد من المحللين والخبراء الماليين تحليلاتهم المفصلة، كما ويناقشون آخر الأخبار والتطورات في السوق.‬‬</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p27224809_b_h10_ab.jpg"/>
@@ -54121,16 +54091,16 @@
     <desc lang="ar">‫‫يقوم المضيف بتسليط الضوء على أحدث الأخبار والتطورات والمستجدات المالية من أنحاء العالم، أثناء تفاعله مع مختلف الخبراء.‬‬</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p27225106_b_h10_ab.jpg"/>
   </programme>
+  <programme start="20261106190000 +0000" stop="20261106193000 +0000" channel="Starz_cnbcarabiya">
+    <title lang="ar">سؤالكم</title>
+    <desc lang="ar">‫‫تقوم المضيفة بإجراء مقابلات مع خبراء اقتصاديين والإجابة على مختلف الأسئلة التي يطرحها المشاهدون، بهدف توضيح آخر الأخبار والمستجدات الاقتصادية.‬‬</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p27224691_b_h8_ac.jpg"/>
+  </programme>
   <channel id="Starz_cgtn">
     <display-name>سي جي تي إن</display-name>
     <icon src="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/cgtn-active.png"/>
   </channel>
-  <programme start="20261102184500 +0000" stop="20261102190000 +0000" channel="Starz_cgtn">
-    <title lang="ar">Global Business</title>
-    <desc lang="ar">Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.</desc>
-    <icon src="https://evisioneand.com/image/catalog/CGTN _ 1920 X 1080.jpg"/>
-  </programme>
-  <programme start="20261102190000 +0000" stop="20261102193000 +0000" channel="Starz_cgtn">
+  <programme start="20261102192000 +0000" stop="20261102193000 +0000" channel="Starz_cgtn">
     <title lang="ar">The World Today</title>
     <desc lang="ar">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.</desc>
     <icon src="https://evisioneand.com/image/catalog/CGTN _ 1920 X 1080.jpg"/>
@@ -55030,16 +55000,16 @@
     <desc lang="ar">Global Business is the flagship business show of CGTN English Channel, bringing you the latest economic data, business trends and policies.</desc>
     <icon src="https://evisioneand.com/image/catalog/CGTN _ 1920 X 1080.jpg"/>
   </programme>
+  <programme start="20261106190000 +0000" stop="20261106193000 +0000" channel="Starz_cgtn">
+    <title lang="ar">The World Today</title>
+    <desc lang="ar">The World Today is the core rolling service of CGTN. keep viewers up-to-date with all the world's top stories as they happen.</desc>
+    <icon src="https://evisioneand.com/image/catalog/CGTN _ 1920 X 1080.jpg"/>
+  </programme>
   <channel id="Starz_cnnfast">
     <display-name>عناوين سي إن إن الدولية</display-name>
     <icon src="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/cnn-active.png"/>
   </channel>
-  <programme start="20261102184500 +0000" stop="20261102190000 +0000" channel="Starz_cnnfast">
-    <title lang="ar">Top stories from CNN</title>
-    <desc lang="ar">Top stories from CNN</desc>
-    <icon src="https://d2fw02wfy9kwvd.cloudfront.net/evision/epg/1920X1080/CNNHeadlines_new1920x1080.jpg"/>
-  </programme>
-  <programme start="20261102190000 +0000" stop="20261102200000 +0000" channel="Starz_cnnfast">
+  <programme start="20261102192000 +0000" stop="20261102200000 +0000" channel="Starz_cnnfast">
     <title lang="ar">Top stories from CNN</title>
     <desc lang="ar">Top stories from CNN</desc>
     <icon src="https://d2fw02wfy9kwvd.cloudfront.net/evision/epg/1920X1080/CNNHeadlines_new1920x1080.jpg"/>
@@ -55519,36 +55489,16 @@
     <desc lang="ar">Top stories from CNN</desc>
     <icon src="https://d2fw02wfy9kwvd.cloudfront.net/evision/epg/1920X1080/CNNHeadlines_new1920x1080.jpg"/>
   </programme>
+  <programme start="20261106190000 +0000" stop="20261106200000 +0000" channel="Starz_cnnfast">
+    <title lang="ar">Top stories from CNN</title>
+    <desc lang="ar">Top stories from CNN</desc>
+    <icon src="https://d2fw02wfy9kwvd.cloudfront.net/evision/epg/1920X1080/CNNHeadlines_new1920x1080.jpg"/>
+  </programme>
   <channel id="Starz_france24arabic">
     <display-name>فرانس 24 العربية</display-name>
     <icon src="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/france24arabic/active/13d5dbd161f370f28abdbf2ea97748d8.png"/>
   </channel>
-  <programme start="20261102184500 +0000" stop="20261102184500 +0000" channel="Starz_france24arabic">
-    <title lang="ar">لو جوغنال - مباشر</title>
-    <desc lang="ar">‫‫يقوم المضيف باستعراض آخر وأهم الأخبار والمستجدات المتعلقة بالسياسة والترفيه والرياضة والأعمال حول العالم.‬‬</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p8187192_b_h10_ae.jpg"/>
-  </programme>
-  <programme start="20261102184500 +0000" stop="20261102185000 +0000" channel="Starz_france24arabic">
-    <title lang="ar">كغونيك سبوغ - مباشر</title>
-    <desc lang="ar">‫‫يلقي المضيفون نظرة على أحدث الأخبار التي تتعلق بعالم الرياضة، بالإضافة لإطلاعهم المشاهدين على جميع التطورات المتعلقة بالأحداث الرياضية المختلفة.‬‬</desc>
-    <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/B86uoAZF.jpg"/>
-  </programme>
-  <programme start="20261102185000 +0000" stop="20261102185600 +0000" channel="Starz_france24arabic">
-    <title lang="ar">فوكس</title>
-    <desc lang="ar">‫‫يعرض خبراء تحليلا متعمقا لعدد من المواضيع الاجتماعية الاقتصادية والسياسية، إضافة إلى الشؤون الحالية التي تؤثر على عامة الناس.‬‬</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p9685049_b_h10_aa.jpg"/>
-  </programme>
-  <programme start="20261102185600 +0000" stop="20261102190000 +0000" channel="Starz_france24arabic">
-    <title lang="ar">لانستا تي</title>
-    <desc lang="ar">‫‫يقوم فريق التقديم بدعوة العديد من الشخصيات للحديث عن لحظات وأحداث معينة في الحياة قد غيرت مجرى حياتها.‬‬</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p16833342_b_h10_ab.jpg"/>
-  </programme>
-  <programme start="20261102190000 +0000" stop="20261102191000 +0000" channel="Starz_france24arabic">
-    <title lang="ar">لو جوغنال - مباشر</title>
-    <desc lang="ar">‫‫يقوم المضيف باستعراض آخر وأهم الأخبار والمستجدات المتعلقة بالسياسة والترفيه والرياضة والأعمال حول العالم.‬‬</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p8187192_b_h10_ae.jpg"/>
-  </programme>
-  <programme start="20261102191000 +0000" stop="20261102195300 +0000" channel="Starz_france24arabic">
+  <programme start="20261102192000 +0000" stop="20261102195300 +0000" channel="Starz_france24arabic">
     <title lang="ar">لو دوبا - مباشر</title>
     <desc lang="ar">‫‫يستضيف فريق التقديم ضيوفا خبراء يجرون مناقشات متعمقة حول الأحداث الرئيسية الجارية في فرنسا وحول العالم.‬‬</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p9862687_b_h10_ad.jpg"/>
@@ -58178,26 +58128,26 @@
     <desc lang="ar">‫‫يتحدث فريق التقديم مع عدة شخصيات من مجال الأعمال البارزة حول آخر الأخبار والتطورات الاقتصادية من مختلف أنحاء البلاد.‬‬</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/B86uoAZF.jpg"/>
   </programme>
+  <programme start="20261106185100 +0000" stop="20261106190000 +0000" channel="Starz_france24arabic">
+    <title lang="ar">فوكس</title>
+    <desc lang="ar">‫‫يعرض خبراء تحليلا متعمقا لعدد من المواضيع الاجتماعية الاقتصادية والسياسية، إضافة إلى الشؤون الحالية التي تؤثر على عامة الناس.‬‬</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p9685049_b_h10_aa.jpg"/>
+  </programme>
+  <programme start="20261106190000 +0000" stop="20261106191000 +0000" channel="Starz_france24arabic">
+    <title lang="ar">لو جوغنال - مباشر</title>
+    <desc lang="ar">‫‫يقوم المضيف باستعراض آخر وأهم الأخبار والمستجدات المتعلقة بالسياسة والترفيه والرياضة والأعمال حول العالم.‬‬</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p8187192_b_h10_ae.jpg"/>
+  </programme>
+  <programme start="20261106191000 +0000" stop="20261106195300 +0000" channel="Starz_france24arabic">
+    <title lang="ar">أون سامين دون لو موند - مباشر</title>
+    <desc lang="ar">‫‫يحلل مجموعة من الحبراء أهم وآخر الأخبار لهذا الأسبوع، وكما يستعرضون تحليلات حادة ومناقشات مثيرة للتفكير.‬‬</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p9862632_b_h10_ae.jpg"/>
+  </programme>
   <channel id="Starz_france24french">
     <display-name>فرانس 24 الفرنسية</display-name>
     <icon src="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/france24french/active/0068e4dea45fea81bdd1b124a6d4adb1.png"/>
   </channel>
-  <programme start="20261102184500 +0000" stop="20261102185700 +0000" channel="Starz_france24french">
-    <title lang="ar">لو دوبا</title>
-    <desc lang="ar">‫‫يستضيف فريق التقديم ضيوفا خبراء يجرون مناقشات متعمقة حول الأحداث الرئيسية الجارية في فرنسا وحول العالم.‬‬</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p9862687_b_h10_ad.jpg"/>
-  </programme>
-  <programme start="20261102185700 +0000" stop="20261102190000 +0000" channel="Starz_france24french">
-    <title lang="ar">إي إن تي آر</title>
-    <desc lang="ar">‫‫يستعرض فريق التقديم تقريرا مفصلا حول مجموعة متنوعة من الموضوعات والقضايا المهمة ويقدم رؤى حول الأشخاص الذين يصنعون فرقا ومهامهم الفريدة وغيرها.‬‬</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p30524340_b_h10_aa.jpg"/>
-  </programme>
-  <programme start="20261102190000 +0000" stop="20261102191600 +0000" channel="Starz_france24french">
-    <title lang="ar">ليسونسييل</title>
-    <desc lang="ar">‫‫نظرة شاملة حول كيفية تأثير القرارات السياسية بشكل متعمق على حياة الكنديين، إلى جانب تحليل مفصل واستكشاف سياق العديد من القضايا ووجهات النظر المختلفة.‬‬</desc>
-    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p28681008_b_h8_ac.jpg"/>
-  </programme>
-  <programme start="20261102191600 +0000" stop="20261102192100 +0000" channel="Starz_france24french">
+  <programme start="20261102192000 +0000" stop="20261102192100 +0000" channel="Starz_france24french">
     <title lang="ar">إيكونومي</title>
     <desc lang="ar">‫‫يتحدث فريق التقديم مع عدة شخصيات من مجال الأعمال البارزة حول آخر الأخبار والتطورات الاقتصادية من مختلف أنحاء البلاد.‬‬</desc>
     <icon src="https://d21egrkhbash7t.cloudfront.net/dasimages/channel/landscape/1056x594/GNg4iBnT.jpg"/>
@@ -60247,16 +60197,16 @@
     <desc lang="ar">‫‫يحلل مجموعة من الحبراء أهم وآخر الأخبار لهذا الأسبوع، وكما يستعرضون تحليلات حادة ومناقشات مثيرة للتفكير.‬‬</desc>
     <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p9862632_b_h10_ae.jpg"/>
   </programme>
+  <programme start="20261106190000 +0000" stop="20261106192200 +0000" channel="Starz_france24french">
+    <title lang="ar">L'invite Au Coeur De L'info</title>
+    <desc lang="ar">‫‬</desc>
+    <icon src="https://mena-img-epg-cdn-lb.aws.playco.com/assets/p31644581_b_h10_ab.jpg"/>
+  </programme>
   <channel id="Starz_alarabiyabusiness">
     <display-name>العربية بيزنس - مباشر</display-name>
     <icon src="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/alarabiyabusiness-active.png"/>
   </channel>
-  <programme start="20261102184500 +0000" stop="20261102190000 +0000" channel="Starz_alarabiyabusiness">
-    <title lang="ar">الأخبار</title>
-    <desc lang="ar">تغطية مباشرة للأخبار المحلية والعالمية مع التركيز على التطورات في العالم، وصولاً إلى عرض دقيق وتحليلات معمقة تهم المشاهدين.</desc>
-    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG25585_landscape10-a52ff116-5923-45a0-915a-fd295baab014.jpg"/>
-  </programme>
-  <programme start="20261102190000 +0000" stop="20261102200000 +0000" channel="Starz_alarabiyabusiness">
+  <programme start="20261102192000 +0000" stop="20261102200000 +0000" channel="Starz_alarabiyabusiness">
     <title lang="ar">العربية Business</title>
     <desc lang="ar">تقدم لكم القناة آخر أخبار المال والأعمال من جميع أنحاء العالم.</desc>
     <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG579166_landscape10-a35a6d5e-84a8-4d5b-b286-cd70bd3d3a80.jpg"/>
@@ -60736,16 +60686,16 @@
     <desc lang="ar">تقدم لكم القناة آخر أخبار المال والأعمال من جميع أنحاء العالم.</desc>
     <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG579166_landscape10-a35a6d5e-84a8-4d5b-b286-cd70bd3d3a80.jpg"/>
   </programme>
+  <programme start="20261106190000 +0000" stop="20261106200000 +0000" channel="Starz_alarabiyabusiness">
+    <title lang="ar">العربية Business</title>
+    <desc lang="ar">تقدم لكم القناة آخر أخبار المال والأعمال من جميع أنحاء العالم.</desc>
+    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG579166_landscape10-a35a6d5e-84a8-4d5b-b286-cd70bd3d3a80.jpg"/>
+  </programme>
   <channel id="Starz_alhadath">
     <display-name>قناة الحدث - مباشر</display-name>
     <icon src="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/alhadath-active.png"/>
   </channel>
-  <programme start="20261102184500 +0000" stop="20261102190000 +0000" channel="Starz_alhadath">
-    <title lang="ar">الأخبار</title>
-    <desc lang="ar">تغطية مباشرة للأخبار المحلية والعالمية مع التركيز على التطورات في العالم، وصولاً إلى عرض دقيق وتحليلات معمقة تهم المشاهدين.</desc>
-    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG25585_landscape10-a52ff116-5923-45a0-915a-fd295baab014.jpg"/>
-  </programme>
-  <programme start="20261102190000 +0000" stop="20261102210000 +0000" channel="Starz_alhadath">
+  <programme start="20261102192000 +0000" stop="20261102210000 +0000" channel="Starz_alhadath">
     <title lang="ar">أخبار الحدث</title>
     <desc lang="ar">كُن في طليعة متابعي أهم القصص، الأخبار العاجلة، والشؤون الراهنة وكل ما ينبغي معرفته في المنطقة العربية وحول العالم.</desc>
     <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG303935_landscape10_MASTER301758.jpg"/>
@@ -61365,12 +61315,12 @@
     <desc lang="ar">تغطية مباشرة للأخبار المحلية والعالمية مع التركيز على التطورات في العالم، وصولاً إلى عرض دقيق وتحليلات معمقة تهم المشاهدين.</desc>
     <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG25585_landscape10-a52ff116-5923-45a0-915a-fd295baab014.jpg"/>
   </programme>
-  <programme start="20261102184500 +0000" stop="20261102191500 +0000" channel="Starz_starzplaysports1">
-    <title lang="ar">ساسولو × فيورنتينا - الدوري الإيطالي</title>
-    <desc lang="ar">ترقّبوا منافسات الدوري الإيطالي لكرة القدم Serie A، حيث تتصارع أعرق الأندية على لقب السكوديتو، والمقاعد الأوروبية، فيما تخوض فرق أخرى معركة البقاء وتفادي الهبوط.</desc>
-    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG67844_landscape10-0fb7e283-14c6-4ded-8dc4-b30aedc30937.jpg"/>
+  <programme start="20261106190000 +0000" stop="20261106210000 +0000" channel="Starz_alhadath">
+    <title lang="ar">أخبار الحدث</title>
+    <desc lang="ar">كُن في طليعة متابعي أهم القصص، الأخبار العاجلة، والشؤون الراهنة وكل ما ينبغي معرفته في المنطقة العربية وحول العالم.</desc>
+    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG303935_landscape10_MASTER301758.jpg"/>
   </programme>
-  <programme start="20261102191500 +0000" stop="20261102193000 +0000" channel="Starz_starzplaysports1">
+  <programme start="20261102192000 +0000" stop="20261102193000 +0000" channel="Starz_starzplaysports1">
     <title lang="ar">مقتطفات من الدوري الإيطالي</title>
     <desc lang="ar">لا تفوتوا أهم تحليلات المباريات مع المحللين الرياضين واللاعبين والمدربين... إضافة إلى أهم الأخبار الكروية وأروع الأهداف خلال الموسم. </desc>
     <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG98671_landscape10-6e4f7ed7-7c20-45f1-9da6-0d13d750b2df.jpg"/>
@@ -61850,12 +61800,12 @@
     <desc lang="ar">تغطي القناة مختلف الأحداث الرياضية من جميع أنحاء العالم.</desc>
     <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG534880_landscape10-5cd11f7a-e3e3-4f71-b1b6-cd124a55b729.jpg"/>
   </programme>
-  <programme start="20261102184500 +0000" stop="20261102191500 +0000" channel="Starz_starzplaysports2">
-    <title lang="ar">ساسولو × فيورنتينا - الدوري الإيطالي</title>
-    <desc lang="ar">ترقّبوا منافسات الدوري الإيطالي لكرة القدم Serie A، حيث تتصارع أعرق الأندية على لقب السكوديتو، والمقاعد الأوروبية، فيما تخوض فرق أخرى معركة البقاء وتفادي الهبوط.</desc>
-    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG67844_landscape10-0fb7e283-14c6-4ded-8dc4-b30aedc30937.jpg"/>
+  <programme start="20261106190000 +0000" stop="20261106200000 +0000" channel="Starz_starzplaysports1">
+    <title lang="ar">StarzPLAY Sports 1</title>
+    <desc lang="ar">تغطي القناة مختلف الأحداث الرياضية من جميع أنحاء العالم.</desc>
+    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG534880_landscape10-5cd11f7a-e3e3-4f71-b1b6-cd124a55b729.jpg"/>
   </programme>
-  <programme start="20261102191500 +0000" stop="20261102192000 +0000" channel="Starz_starzplaysports2">
+  <programme start="20261102192000 +0000" stop="20261102192000 +0000" channel="Starz_starzplaysports2">
     <title lang="ar">مقتطفات من الدوري الإيطالي</title>
     <desc lang="ar">لا تفوتوا أهم تحليلات المباريات مع المحللين الرياضين واللاعبين والمدربين... إضافة إلى أهم الأخبار الكروية وأروع الأهداف خلال الموسم. </desc>
     <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG98671_landscape10-6e4f7ed7-7c20-45f1-9da6-0d13d750b2df.jpg"/>
@@ -62350,16 +62300,16 @@
     <desc lang="ar">تغطي القناة مختلف الأحداث الرياضية من جميع أنحاء العالم.</desc>
     <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG534883_landscape10-e05946c0-4a16-41e7-815a-fb6510e3c15b.jpg"/>
   </programme>
+  <programme start="20261106190000 +0000" stop="20261106200000 +0000" channel="Starz_starzplaysports2">
+    <title lang="ar">StarzPLAY Sports 2</title>
+    <desc lang="ar">تغطي القناة مختلف الأحداث الرياضية من جميع أنحاء العالم.</desc>
+    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG534883_landscape10-e05946c0-4a16-41e7-815a-fb6510e3c15b.jpg"/>
+  </programme>
   <channel id="Starz_starzplaysport1">
     <display-name>STARZPLAY Sports 3</display-name>
     <icon src="https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/logos/live/v2/starzplaysports-active.png"/>
   </channel>
-  <programme start="20261102184500 +0000" stop="20261102190000 +0000" channel="Starz_starzplaysport1">
-    <title lang="ar">مويكانو × نولان - يو إف سي فايت نايت</title>
-    <desc lang="ar">تابعوا الإثارة وأفضل الأحداث لـ (بطولة القتال النهائي) يو إف سي فايت نايت.</desc>
-    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG60439_landscape10-8942a197-3d48-4004-9f05-06b7a2e8726a.jpg"/>
-  </programme>
-  <programme start="20261102190000 +0000" stop="20261102200000 +0000" channel="Starz_starzplaysport1">
+  <programme start="20261102192000 +0000" stop="20261102200000 +0000" channel="Starz_starzplaysport1">
     <title lang="ar">ستارزبلاي سبورتس 3</title>
     <desc lang="ar">تغطي القناة مختلف الأحداث الرياضية من جميع أنحاء العالم.</desc>
     <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG534901_landscape10-1111f53a-9d65-4bb1-a282-273643a14ebc.jpg"/>
@@ -62774,17 +62724,12 @@
     <desc lang="ar">تغطي القناة مختلف الأحداث الرياضية من جميع أنحاء العالم.</desc>
     <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG534901_landscape10-1111f53a-9d65-4bb1-a282-273643a14ebc.jpg"/>
   </programme>
-  <programme start="20261102184500 +0000" stop="20261102184500 +0000" channel="Starz_admnadsports1">
-    <title lang="ar">Sport Confidential (Ar) 2026</title>
-    <desc lang="ar">Sport Confidential (Ar) 2026</desc>
-    <icon src="http://mena-img-cdn-lb.aws.playco.com/admn-ingest-inhouse/ADMNADSPORTS1Y2025MAR/ADMNADSPORTS1Y2025MAR-landscape-poster-v1.jpg"/>
+  <programme start="20261106190000 +0000" stop="20261106200000 +0000" channel="Starz_starzplaysport1">
+    <title lang="ar">ستارزبلاي سبورتس 3</title>
+    <desc lang="ar">تغطي القناة مختلف الأحداث الرياضية من جميع أنحاء العالم.</desc>
+    <icon src="https://starzplay-epg-prod-ssl.akamaized.net/poster_streaming/EPG534901_landscape10-1111f53a-9d65-4bb1-a282-273643a14ebc.jpg"/>
   </programme>
-  <programme start="20261102184500 +0000" stop="20261102191500 +0000" channel="Starz_admnadsports1">
-    <title lang="ar">The Greatest of All Time 2026 : Season 2  (Ar)</title>
-    <desc lang="ar">The Greatest of All Time 2026 : Season 2  (Ar)</desc>
-    <icon src="http://mena-img-cdn-lb.aws.playco.com/admn-ingest-inhouse/ADMNADSPORTS1Y2025MAR/ADMNADSPORTS1Y2025MAR-landscape-poster-v1.jpg"/>
-  </programme>
-  <programme start="20261102191500 +0000" stop="20261102201500 +0000" channel="Starz_admnadsports1">
+  <programme start="20261102192000 +0000" stop="20261102201500 +0000" channel="Starz_admnadsports1">
     <title lang="ar">German Cup Highlights Program 2026-2027 (Ar)</title>
     <desc lang="ar">German Cup Highlights Program 2026-2027 (Ar)</desc>
     <icon src="http://mena-img-cdn-lb.aws.playco.com/admn-ingest-inhouse/ADMNADSPORTS1Y2025MAR/ADMNADSPORTS1Y2025MAR-landscape-poster-v1.jpg"/>
@@ -63152,11 +63097,6 @@
   <channel id="STC_756430376216">
     <display-name>STC Channel 756430376216</display-name>
   </channel>
-  <programme start="20261103160000 +0000" stop="20261103170000 +0000" channel="STC_756430376216">
-    <title lang="ar">stc EWC</title>
-    <desc lang="ar">تغطيـة إقليميـة متميّزة لكرة القدم تشمل دوري روشن السعودي ودوري يلو.</desc>
-    <icon src="https://mpx-assets.intigral-ott.net/poster_streaming/Sports1.jpg"/>
-  </programme>
   <programme start="20261103170000 +0000" stop="20261103180000 +0000" channel="STC_756430376216">
     <title lang="ar">stc EWC</title>
     <desc lang="ar">تغطيـة إقليميـة متميّزة لكرة القدم تشمل دوري روشن السعودي ودوري يلو.</desc>
@@ -66391,11 +66331,6 @@
   <channel id="STC_778262568094">
     <display-name>STC Channel 778262568094</display-name>
   </channel>
-  <programme start="20261103160000 +0000" stop="20261103170000 +0000" channel="STC_778262568094">
-    <title lang="ar">ثمانية.10</title>
-    <desc lang="ar">تغطيـة إقليميـة متميّزة لكرة القدم تشمل دوري روشن السعودي ودوري يلو.</desc>
-    <icon src="https://mpx-assets.intigral-ott.net/poster_streaming/Sports1.jpg"/>
-  </programme>
   <programme start="20261103170000 +0000" stop="20261103180000 +0000" channel="STC_778262568094">
     <title lang="ar">ثمانية.10</title>
     <desc lang="ar">تغطيـة إقليميـة متميّزة لكرة القدم تشمل دوري روشن السعودي ودوري يلو.</desc>
@@ -66477,11 +66412,6 @@
   <channel id="STC_778262568093">
     <display-name>STC Channel 778262568093</display-name>
   </channel>
-  <programme start="20261103160000 +0000" stop="20261103170000 +0000" channel="STC_778262568093">
-    <title lang="ar">ثمانية.8</title>
-    <desc lang="ar">تغطيـة إقليميـة متميّزة لكرة القدم تشمل دوري روشن السعودي ودوري يلو.</desc>
-    <icon src="https://mpx-assets.intigral-ott.net/poster_streaming/Sports1.jpg"/>
-  </programme>
   <programme start="20261103170000 +0000" stop="20261103180000 +0000" channel="STC_778262568093">
     <title lang="ar">ثمانية.8</title>
     <desc lang="ar">تغطيـة إقليميـة متميّزة لكرة القدم تشمل دوري روشن السعودي ودوري يلو.</desc>
@@ -73157,11 +73087,6 @@
   <channel id="STC_811563560264">
     <display-name>STC Channel 811563560264</display-name>
   </channel>
-  <programme start="20261103160500 +0000" stop="20261103170000 +0000" channel="STC_811563560264">
-    <title lang="ar">لغز الطائرات الورقية الصحراوية</title>
-    <desc lang="ar">فيلم وثائقي يتتبع فريقًا دوليًا من علماء الآثار والباحثين أثناء استكشافهم لمجموعات استثنائية من المنشآت الضخمة التي تمتد عبر الصحراء العربية.</desc>
-    <icon src="https://mpx-assets.intigral-ott.net/poster_streaming/EPG638139_landscape10-62bbfad8-e205-473c-a3fc-8058cc6d5c73.jpg"/>
-  </programme>
   <programme start="20261103170000 +0000" stop="20261103173000 +0000" channel="STC_811563560264">
     <title lang="ar">أخبار بي بي سي</title>
     <desc lang="ar">أهم وآخر الأخبار من حول العالم، تغطي جميع بقاع الأرض وتعرض كل التطورات على جميع الأصعدة.</desc>
@@ -76948,26 +76873,6 @@
   <channel id="STC_92534312044">
     <display-name>STC Channel 92534312044</display-name>
   </channel>
-  <programme start="20261103160000 +0000" stop="20261103163000 +0000" channel="STC_92534312044">
-    <title lang="ar">فيريفايد لايف</title>
-    <desc lang="ar">يقدم (ماثيو آمروليوالا) أحدث الأخبار العالمية بشكل عام وأخبار المملكة المتحدة بشكل خاص، مباشرة من لندن.</desc>
-    <icon src="https://mpx-assets.intigral-ott.net/poster_streaming/EPG558635_landscape10-07950c5c-077d-427b-9104-ed4afe15a200.jpg"/>
-  </programme>
-  <programme start="20261103163000 +0000" stop="20261103164500 +0000" channel="STC_92534312044">
-    <title lang="ar">بيزنيس توداي</title>
-    <desc lang="ar">تابعوا أهم الأخبار الاقتصادية وابقوا على اطّلاع على آخر التحديثات والتحليلات من لندن والعالم.</desc>
-    <icon src="https://mpx-assets.intigral-ott.net/poster_streaming/EPG596943_landscape10-e31ef2c0-ca5e-435e-a575-1c0b252e8089.jpg"/>
-  </programme>
-  <programme start="20261103164500 +0000" stop="20261103165500 +0000" channel="STC_92534312044">
-    <title lang="ar">فيريفايد لايف</title>
-    <desc lang="ar">يقدم (ماثيو آمروليوالا) أحدث الأخبار العالمية بشكل عام وأخبار المملكة المتحدة بشكل خاص، مباشرة من لندن.</desc>
-    <icon src="https://mpx-assets.intigral-ott.net/poster_streaming/EPG558635_landscape10-07950c5c-077d-427b-9104-ed4afe15a200.jpg"/>
-  </programme>
-  <programme start="20261103165500 +0000" stop="20261103170000 +0000" channel="STC_92534312044">
-    <title lang="ar">كلايف مايري: أفريكان أدفينتشر</title>
-    <desc lang="ar">يخوض كلايف تجربة حماسية في جنوب أفريقيا، حيث يتعرف على ظاهرة استعراض السيارات وحفلات غسيلها، ويلتقي بحفيدة نيلسون مانديلا، الذي ألهمه ليصبح صحفيًا.</desc>
-    <icon src="https://mpx-assets.intigral-ott.net/poster_streaming/EPG642567_landscape10-a68af32b-0cbf-45d9-b901-a9ef3123eef9.jpg"/>
-  </programme>
   <programme start="20261103170000 +0000" stop="20261103173000 +0000" channel="STC_92534312044">
     <title lang="ar">فيريفايد لايف</title>
     <desc lang="ar">يقدم (ماثيو آمروليوالا) أحدث الأخبار العالمية بشكل عام وأخبار المملكة المتحدة بشكل خاص، مباشرة من لندن.</desc>
@@ -78495,11 +78400,6 @@
   <channel id="STC_778248232418">
     <display-name>STC Channel 778248232418</display-name>
   </channel>
-  <programme start="20261103160000 +0000" stop="20261103170000 +0000" channel="STC_778248232418">
-    <title lang="ar">ثمانية.11</title>
-    <desc lang="ar">تغطيـة إقليميـة متميّزة لكرة القدم تشمل دوري روشن السعودي ودوري يلو.</desc>
-    <icon src="https://mpx-assets.intigral-ott.net/poster_streaming/Sports1.jpg"/>
-  </programme>
   <programme start="20261103170000 +0000" stop="20261103180000 +0000" channel="STC_778248232418">
     <title lang="ar">ثمانية.11</title>
     <desc lang="ar">تغطيـة إقليميـة متميّزة لكرة القدم تشمل دوري روشن السعودي ودوري يلو.</desc>
@@ -78523,11 +78423,6 @@
   <channel id="STC_778263592434">
     <display-name>STC Channel 778263592434</display-name>
   </channel>
-  <programme start="20261103160000 +0000" stop="20261103170000 +0000" channel="STC_778263592434">
-    <title lang="ar">ثمانية.12</title>
-    <desc lang="ar">تغطيـة إقليميـة متميّزة لكرة القدم تشمل دوري روشن السعودي ودوري يلو.</desc>
-    <icon src="https://mpx-assets.intigral-ott.net/poster_streaming/roshen.jpg"/>
-  </programme>
   <programme start="20261103170000 +0000" stop="20261103180000 +0000" channel="STC_778263592434">
     <title lang="ar">ثمانية.12</title>
     <desc lang="ar">تغطيـة إقليميـة متميّزة لكرة القدم تشمل دوري روشن السعودي ودوري يلو.</desc>
@@ -79008,11 +78903,6 @@
   <channel id="STC_92534312038">
     <display-name>STC Channel 92534312038</display-name>
   </channel>
-  <programme start="20261103160000 +0000" stop="20261103170000 +0000" channel="STC_92534312038">
-    <title lang="ar">BBC عربي</title>
-    <desc lang="ar">مختصة ببث الأخبار والمعلومات السياسية والاقتصادية على الصعيدين العربي والعالمي</desc>
-    <icon src="https://mpx-assets.intigral-ott.net/poster_streaming/News1.jpg"/>
-  </programme>
   <programme start="20261103170000 +0000" stop="20261103180000 +0000" channel="STC_92534312038">
     <title lang="ar">BBC عربي</title>
     <desc lang="ar">مختصة ببث الأخبار والمعلومات السياسية والاقتصادية على الصعيدين العربي والعالمي</desc>
@@ -84001,11 +83891,6 @@
   <channel id="STC_778261032409">
     <display-name>STC Channel 778261032409</display-name>
   </channel>
-  <programme start="20261103160000 +0000" stop="20261103170000 +0000" channel="STC_778261032409">
-    <title lang="ar">ثمانية.6</title>
-    <desc lang="ar">تغطيـة إقليميـة متميّزة لكرة القدم تشمل دوري روشن السعودي ودوري يلو.</desc>
-    <icon src="https://mpx-assets.intigral-ott.net/poster_streaming/Sports1.jpg"/>
-  </programme>
   <programme start="20261103170000 +0000" stop="20261103180000 +0000" channel="STC_778261032409">
     <title lang="ar">ثمانية.6</title>
     <desc lang="ar">تغطيـة إقليميـة متميّزة لكرة القدم تشمل دوري روشن السعودي ودوري يلو.</desc>
@@ -84167,11 +84052,6 @@
   <channel id="STC_778261032406">
     <display-name>STC Channel 778261032406</display-name>
   </channel>
-  <programme start="20261103160000 +0000" stop="20261103170000 +0000" channel="STC_778261032406">
-    <title lang="ar">ثمانية 5</title>
-    <desc lang="ar">تغطيـة إقليميـة متميّزة لكرة القدم تشمل دوري روشن السعودي ودوري يلو.</desc>
-    <icon src="https://mpx-assets.intigral-ott.net/poster_streaming/Sports1.jpg"/>
-  </programme>
   <programme start="20261103170000 +0000" stop="20261103180000 +0000" channel="STC_778261032406">
     <title lang="ar">ثمانية 5</title>
     <desc lang="ar">تغطيـة إقليميـة متميّزة لكرة القدم تشمل دوري روشن السعودي ودوري يلو.</desc>
@@ -84195,11 +84075,6 @@
   <channel id="STC_778261032407">
     <display-name>STC Channel 778261032407</display-name>
   </channel>
-  <programme start="20261103160000 +0000" stop="20261103170000 +0000" channel="STC_778261032407">
-    <title lang="ar">ثمانية.7</title>
-    <desc lang="ar">تغطيـة إقليميـة متميّزة لكرة القدم تشمل دوري روشن السعودي ودوري يلو.</desc>
-    <icon src="https://mpx-assets.intigral-ott.net/poster_streaming/Sports1.jpg"/>
-  </programme>
   <programme start="20261103170000 +0000" stop="20261103180000 +0000" channel="STC_778261032407">
     <title lang="ar">ثمانية.7</title>
     <desc lang="ar">تغطيـة إقليميـة متميّزة لكرة القدم تشمل دوري روشن السعودي ودوري يلو.</desc>
@@ -84223,11 +84098,6 @@
   <channel id="STC_778261032408">
     <display-name>STC Channel 778261032408</display-name>
   </channel>
-  <programme start="20261103160000 +0000" stop="20261103170000 +0000" channel="STC_778261032408">
-    <title lang="ar">ثمانية.9</title>
-    <desc lang="ar">تغطيـة إقليميـة متميّزة لكرة القدم تشمل دوري روشن السعودي ودوري يلو.</desc>
-    <icon src="https://mpx-assets.intigral-ott.net/poster_streaming/Sports1.jpg"/>
-  </programme>
   <programme start="20261103170000 +0000" stop="20261103180000 +0000" channel="STC_778261032408">
     <title lang="ar">ثمانية.9</title>
     <desc lang="ar">تغطيـة إقليميـة متميّزة لكرة القدم تشمل دوري روشن السعودي ودوري يلو.</desc>
@@ -87004,7 +86874,7 @@
   <programme start="20261102210000 +0000" stop="20261102220000 +0000" channel="STC_517781032001">
     <title lang="ar">المصيدة:الحلقة 7</title>
     <desc lang="ar">بعد عملية احتيال متقنة، تجد فريدة، خبيرة الاختراق، نفسها وأصدقاءها في سباق مع الزمن داخل شبكة معقدة من الأكاذيب والمطاردات. تتكشف خيوط من الماضي لم تكن بالحسبان، فتتبدل الأدوار وتصبح الخطة التي رسموها بداية لسلسلة مواجهات تهددهم جميعًا.</desc>
-    <icon src="https://mpx-assets.intigral-ott.net/landscape_streaming/S0011386001012.jpg"/>
+    <icon src="https://mpx-assets.intigral-ott.net/landscape_streaming/S0011386001015.jpg"/>
   </programme>
   <programme start="20261102220000 +0000" stop="20261102233000 +0000" channel="STC_517781032001">
     <title lang="ar">روتانا سبورت مع وليد:الحلقة 82</title>
@@ -87014,17 +86884,17 @@
   <programme start="20261102233000 +0000" stop="20261103003000 +0000" channel="STC_517781032001">
     <title lang="ar">بيت أهلي:الحلقة 8</title>
     <desc lang="ar">تدور أحداث المسلسل في سوريا خلال أربعينيات القرن الماضي، ويستعرض قضايا الحب والطمع والتحولات الاجتماعية عبر حكايات من البيئة الشامية.</desc>
-    <icon src="https://mpx-assets.intigral-ott.net/landscape_streaming/S0011511001015.jpg"/>
+    <icon src="https://mpx-assets.intigral-ott.net/landscape_streaming/S0011511001030.jpg"/>
   </programme>
   <programme start="20261103003000 +0000" stop="20261103020000 +0000" channel="STC_517781032001">
-    <title lang="ar">الكنز 2: الحب والمصير</title>
-    <desc lang="ar">تتمة لحكايات حتشسبوت في العصر الفرعوني، حيث ينطلق حسن للعثور على الكنز المدفون في قصر والده بشر الكتاتني. يعتمد في هذا السعي على بعض الأدلة الموجودة في وثائق البردي القديمة التي تحتوي على قصص من العصر الفرعوني والعصر العثماني.</desc>
-    <icon src="https://mpx-assets.intigral-ott.net/poster_streaming/M0018436_landscape10-46d16753-ac7d-4c09-9a50-3d3d3414454e.jpg"/>
+    <title lang="ar">الخلية</title>
+    <desc lang="ar">فيلم دراما اجتماعي في إطار الأكشن سريع الوتيرة ومطاردات تحبس الأنفاس. النجم أحمد عز ضابط عمليات خاص، يتعامل مع هجمات تنفذها خلايا إرهابية لا يستهان بها، في محاولة للحفاظ على المدينة آمنة نظيفة. تشاركه البطولة أمينة خليل وعدد كبير من النجوم.</desc>
+    <icon src="https://mpx-assets.intigral-ott.net/poster_streaming/EPG199284_landscape10_MASTER567888.jpg"/>
   </programme>
   <programme start="20261103020000 +0000" stop="20261103030000 +0000" channel="STC_517781032001">
     <title lang="ar">بلا تصنيف:الحلقة 14</title>
     <desc lang="ar">برنامج حواري يجمع أبرز نجوم التمثيل والغناء في جلسات مليئة بالعفوية والصدق. يفتحون قلوبهم للحديث عن محطاتهم الفنية، مواقفهم الإنسانية، والتحديات التي شكّلت مسيرتهم. حكايات تُروى لأول مرة وتفاصيل تكشف الجانب الحقيقي من شخصياتهم.</desc>
-    <icon src="https://mpx-assets.intigral-ott.net/poster_streaming/S0011282_landscape10-ef5ceb39-5bcd-4760-993b-c46cc4710e83.jpg"/>
+    <icon src="https://mpx-assets.intigral-ott.net/landscape_streaming/S0011282001018.jpg"/>
   </programme>
   <programme start="20261103030000 +0000" stop="20261103033000 +0000" channel="STC_517781032001">
     <title lang="ar">ذا ترافلر مع زياد:الحلقة 4</title>
@@ -87034,7 +86904,7 @@
   <programme start="20261103033000 +0000" stop="20261103040000 +0000" channel="STC_517781032001">
     <title lang="ar">توب 10:الحلقة 6</title>
     <desc lang="ar">من أزياء السجادة الحمراء الأكثر شهرة إلى القصور التي يملكها المشاهير، وصولاً إلى الأفلام المتقدمة في شباك تذاكر دور السينما... نقوم بالعد التنازلي للمراكز العشرة الأولى في عالم المشاهير والترفيه.</desc>
-    <icon src="https://mpx-assets.intigral-ott.net/landscape_streaming/S0010797002007.jpg"/>
+    <icon src="https://mpx-assets.intigral-ott.net/landscape_streaming/S0010797002010.jpg"/>
   </programme>
   <programme start="20261103040000 +0000" stop="20261103050000 +0000" channel="STC_517781032001">
     <title lang="ar">يا هلا</title>
@@ -87057,19 +86927,19 @@
     <icon src="https://mpx-assets.intigral-ott.net/poster_streaming/EPG640871_landscape10-48b79ea8-1671-436b-9a9c-91ca8fabbdbf.jpg"/>
   </programme>
   <programme start="20261103080000 +0000" stop="20261103093000 +0000" channel="STC_517781032001">
-    <title lang="ar">الكنز 2: الحب والمصير</title>
-    <desc lang="ar">تتمة لحكايات حتشسبوت في العصر الفرعوني، حيث ينطلق حسن للعثور على الكنز المدفون في قصر والده بشر الكتاتني. يعتمد في هذا السعي على بعض الأدلة الموجودة في وثائق البردي القديمة التي تحتوي على قصص من العصر الفرعوني والعصر العثماني.</desc>
-    <icon src="https://mpx-assets.intigral-ott.net/poster_streaming/M0018436_landscape10-46d16753-ac7d-4c09-9a50-3d3d3414454e.jpg"/>
+    <title lang="ar">الخلية</title>
+    <desc lang="ar">فيلم دراما اجتماعي في إطار الأكشن سريع الوتيرة ومطاردات تحبس الأنفاس. النجم أحمد عز ضابط عمليات خاص، يتعامل مع هجمات تنفذها خلايا إرهابية لا يستهان بها، في محاولة للحفاظ على المدينة آمنة نظيفة. تشاركه البطولة أمينة خليل وعدد كبير من النجوم.</desc>
+    <icon src="https://mpx-assets.intigral-ott.net/poster_streaming/EPG199284_landscape10_MASTER567888.jpg"/>
   </programme>
   <programme start="20261103093000 +0000" stop="20261103103000 +0000" channel="STC_517781032001">
     <title lang="ar">المصيدة:الحلقة 7</title>
     <desc lang="ar">بعد عملية احتيال متقنة، تجد فريدة، خبيرة الاختراق، نفسها وأصدقاءها في سباق مع الزمن داخل شبكة معقدة من الأكاذيب والمطاردات. تتكشف خيوط من الماضي لم تكن بالحسبان، فتتبدل الأدوار وتصبح الخطة التي رسموها بداية لسلسلة مواجهات تهددهم جميعًا.</desc>
-    <icon src="https://mpx-assets.intigral-ott.net/landscape_streaming/S0011386001012.jpg"/>
+    <icon src="https://mpx-assets.intigral-ott.net/landscape_streaming/S0011386001015.jpg"/>
   </programme>
   <programme start="20261103103000 +0000" stop="20261103113000 +0000" channel="STC_517781032001">
     <title lang="ar">بيت أهلي:الحلقة 8</title>
     <desc lang="ar">تدور أحداث المسلسل في سوريا خلال أربعينيات القرن الماضي، ويستعرض قضايا الحب والطمع والتحولات الاجتماعية عبر حكايات من البيئة الشامية.</desc>
-    <icon src="https://mpx-assets.intigral-ott.net/landscape_streaming/S0011511001015.jpg"/>
+    <icon src="https://mpx-assets.intigral-ott.net/landscape_streaming/S0011511001030.jpg"/>
   </programme>
   <programme start="20261103113000 +0000" stop="20261103133000 +0000" channel="STC_517781032001">
     <title lang="ar">حفل غنائي</title>
@@ -87089,7 +86959,7 @@
   <programme start="20261103150000 +0000" stop="20261103160000 +0000" channel="STC_517781032001">
     <title lang="ar">المصيدة:الحلقة 8</title>
     <desc lang="ar">بعد عملية احتيال متقنة، تجد فريدة، خبيرة الاختراق، نفسها وأصدقاءها في سباق مع الزمن داخل شبكة معقدة من الأكاذيب والمطاردات. تتكشف خيوط من الماضي لم تكن بالحسبان، فتتبدل الأدوار وتصبح الخطة التي رسموها بداية لسلسلة مواجهات تهددهم جميعًا.</desc>
-    <icon src="https://mpx-assets.intigral-ott.net/landscape_streaming/S0011386001012.jpg"/>
+    <icon src="https://mpx-assets.intigral-ott.net/landscape_streaming/S0011386001015.jpg"/>
   </programme>
   <programme start="20261103160000 +0000" stop="20261103173000 +0000" channel="STC_517781032001">
     <title lang="ar">فرق خبرة</title>
@@ -87099,7 +86969,7 @@
   <programme start="20261103173000 +0000" stop="20261103183000 +0000" channel="STC_517781032001">
     <title lang="ar">بيت أهلي:الحلقة 9</title>
     <desc lang="ar">تدور أحداث المسلسل في سوريا خلال أربعينيات القرن الماضي، ويستعرض قضايا الحب والطمع والتحولات الاجتماعية عبر حكايات من البيئة الشامية.</desc>
-    <icon src="https://mpx-assets.intigral-ott.net/landscape_streaming/S0011511001015.jpg"/>
+    <icon src="https://mpx-assets.intigral-ott.net/landscape_streaming/S0011511001030.jpg"/>
   </programme>
   <programme start="20261103183000 +0000" stop="20261103193000 +0000" channel="STC_517781032001">
     <title lang="ar">يا هلا</title>
@@ -112987,7 +112857,7 @@
   <programme start="20261103210000 +0000" stop="20261103220000 +0000" channel="STC_517781032001">
     <title lang="ar">المصيدة:الحلقة 8</title>
     <desc lang="ar">بعد عملية احتيال متقنة، تجد فريدة، خبيرة الاختراق، نفسها وأصدقاءها في سباق مع الزمن داخل شبكة معقدة من الأكاذيب والمطاردات. تتكشف خيوط من الماضي لم تكن بالحسبان، فتتبدل الأدوار وتصبح الخطة التي رسموها بداية لسلسلة مواجهات تهددهم جميعًا.</desc>
-    <icon src="https://mpx-assets.intigral-ott.net/landscape_streaming/S0011386001012.jpg"/>
+    <icon src="https://mpx-assets.intigral-ott.net/landscape_streaming/S0011386001015.jpg"/>
   </programme>
   <programme start="20261103220000 +0000" stop="20261103233000 +0000" channel="STC_517781032001">
     <title lang="ar">روتانا سبورت مع وليد:الحلقة 83</title>
@@ -112997,7 +112867,7 @@
   <programme start="20261103233000 +0000" stop="20261104003000 +0000" channel="STC_517781032001">
     <title lang="ar">بيت أهلي:الحلقة 9</title>
     <desc lang="ar">تدور أحداث المسلسل في سوريا خلال أربعينيات القرن الماضي، ويستعرض قضايا الحب والطمع والتحولات الاجتماعية عبر حكايات من البيئة الشامية.</desc>
-    <icon src="https://mpx-assets.intigral-ott.net/landscape_streaming/S0011511001015.jpg"/>
+    <icon src="https://mpx-assets.intigral-ott.net/landscape_streaming/S0011511001030.jpg"/>
   </programme>
   <programme start="20261104003000 +0000" stop="20261104020000 +0000" channel="STC_517781032001">
     <title lang="ar">فرق خبرة</title>
@@ -113037,12 +112907,12 @@
   <programme start="20261104093000 +0000" stop="20261104103000 +0000" channel="STC_517781032001">
     <title lang="ar">المصيدة:الحلقة 8</title>
     <desc lang="ar">بعد عملية احتيال متقنة، تجد فريدة، خبيرة الاختراق، نفسها وأصدقاءها في سباق مع الزمن داخل شبكة معقدة من الأكاذيب والمطاردات. تتكشف خيوط من الماضي لم تكن بالحسبان، فتتبدل الأدوار وتصبح الخطة التي رسموها بداية لسلسلة مواجهات تهددهم جميعًا.</desc>
-    <icon src="https://mpx-assets.intigral-ott.net/landscape_streaming/S0011386001012.jpg"/>
+    <icon src="https://mpx-assets.intigral-ott.net/landscape_streaming/S0011386001015.jpg"/>
   </programme>
   <programme start="20261104103000 +0000" stop="20261104113000 +0000" channel="STC_517781032001">
     <title lang="ar">بيت أهلي:الحلقة 9</title>
     <desc lang="ar">تدور أحداث المسلسل في سوريا خلال أربعينيات القرن الماضي، ويستعرض قضايا الحب والطمع والتحولات الاجتماعية عبر حكايات من البيئة الشامية.</desc>
-    <icon src="https://mpx-assets.intigral-ott.net/landscape_streaming/S0011511001015.jpg"/>
+    <icon src="https://mpx-assets.intigral-ott.net/landscape_streaming/S0011511001030.jpg"/>
   </programme>
   <programme start="20261104113000 +0000" stop="20261104130000 +0000" channel="STC_517781032001">
     <title lang="ar">حول المملكة:الحلقة 9</title>
@@ -113067,7 +112937,7 @@
   <programme start="20261104150000 +0000" stop="20261104160000 +0000" channel="STC_517781032001">
     <title lang="ar">المصيدة:الحلقة 9</title>
     <desc lang="ar">بعد عملية احتيال متقنة، تجد فريدة، خبيرة الاختراق، نفسها وأصدقاءها في سباق مع الزمن داخل شبكة معقدة من الأكاذيب والمطاردات. تتكشف خيوط من الماضي لم تكن بالحسبان، فتتبدل الأدوار وتصبح الخطة التي رسموها بداية لسلسلة مواجهات تهددهم جميعًا.</desc>
-    <icon src="https://mpx-assets.intigral-ott.net/landscape_streaming/S0011386001012.jpg"/>
+    <icon src="https://mpx-assets.intigral-ott.net/landscape_streaming/S0011386001015.jpg"/>
   </programme>
   <programme start="20261104160000 +0000" stop="20261104173000 +0000" channel="STC_517781032001">
     <title lang="ar">خير وبركة</title>
@@ -113077,7 +112947,7 @@
   <programme start="20261104173000 +0000" stop="20261104183000 +0000" channel="STC_517781032001">
     <title lang="ar">بيت أهلي:الحلقة 10</title>
     <desc lang="ar">تدور أحداث المسلسل في سوريا خلال أربعينيات القرن الماضي، ويستعرض قضايا الحب والطمع والتحولات الاجتماعية عبر حكايات من البيئة الشامية.</desc>
-    <icon src="https://mpx-assets.intigral-ott.net/landscape_streaming/S0011511001015.jpg"/>
+    <icon src="https://mpx-assets.intigral-ott.net/landscape_streaming/S0011511001030.jpg"/>
   </programme>
   <programme start="20261104183000 +0000" stop="20261104193000 +0000" channel="STC_517781032001">
     <title lang="ar">يا هلا</title>
@@ -138982,7 +138852,7 @@
   <programme start="20261104210000 +0000" stop="20261104220000 +0000" channel="STC_517781032001">
     <title lang="ar">المصيدة:الحلقة 9</title>
     <desc lang="ar">بعد عملية احتيال متقنة، تجد فريدة، خبيرة الاختراق، نفسها وأصدقاءها في سباق مع الزمن داخل شبكة معقدة من الأكاذيب والمطاردات. تتكشف خيوط من الماضي لم تكن بالحسبان، فتتبدل الأدوار وتصبح الخطة التي رسموها بداية لسلسلة مواجهات تهددهم جميعًا.</desc>
-    <icon src="https://mpx-assets.intigral-ott.net/landscape_streaming/S0011386001012.jpg"/>
+    <icon src="https://mpx-assets.intigral-ott.net/landscape_streaming/S0011386001015.jpg"/>
   </programme>
   <programme start="20261104220000 +0000" stop="20261104233000 +0000" channel="STC_517781032001">
     <title lang="ar">روتانا سبورت مع وليد:الحلقة 84</title>
@@ -138992,7 +138862,7 @@
   <programme start="20261104233000 +0000" stop="20261105003000 +0000" channel="STC_517781032001">
     <title lang="ar">بيت أهلي:الحلقة 10</title>
     <desc lang="ar">تدور أحداث المسلسل في سوريا خلال أربعينيات القرن الماضي، ويستعرض قضايا الحب والطمع والتحولات الاجتماعية عبر حكايات من البيئة الشامية.</desc>
-    <icon src="https://mpx-assets.intigral-ott.net/landscape_streaming/S0011511001015.jpg"/>
+    <icon src="https://mpx-assets.intigral-ott.net/landscape_streaming/S0011511001030.jpg"/>
   </programme>
   <programme start="20261105003000 +0000" stop="20261105020000 +0000" channel="STC_517781032001">
     <title lang="ar">خير وبركة</title>
@@ -139037,12 +138907,12 @@
   <programme start="20261105093000 +0000" stop="20261105103000 +0000" channel="STC_517781032001">
     <title lang="ar">المصيدة:الحلقة 9</title>
     <desc lang="ar">بعد عملية احتيال متقنة، تجد فريدة، خبيرة الاختراق، نفسها وأصدقاءها في سباق مع الزمن داخل شبكة معقدة من الأكاذيب والمطاردات. تتكشف خيوط من الماضي لم تكن بالحسبان، فتتبدل الأدوار وتصبح الخطة التي رسموها بداية لسلسلة مواجهات تهددهم جميعًا.</desc>
-    <icon src="https://mpx-assets.intigral-ott.net/landscape_streaming/S0011386001012.jpg"/>
+    <icon src="https://mpx-assets.intigral-ott.net/landscape_streaming/S0011386001015.jpg"/>
   </programme>
   <programme start="20261105103000 +0000" stop="20261105113000 +0000" channel="STC_517781032001">
     <title lang="ar">بيت أهلي:الحلقة 10</title>
     <desc lang="ar">تدور أحداث المسلسل في سوريا خلال أربعينيات القرن الماضي، ويستعرض قضايا الحب والطمع والتحولات الاجتماعية عبر حكايات من البيئة الشامية.</desc>
-    <icon src="https://mpx-assets.intigral-ott.net/landscape_streaming/S0011511001015.jpg"/>
+    <icon src="https://mpx-assets.intigral-ott.net/landscape_streaming/S0011511001030.jpg"/>
   </programme>
   <programme start="20261105113000 +0000" stop="20261105133000 +0000" channel="STC_517781032001">
     <title lang="ar">الديزل</title>
@@ -139062,7 +138932,7 @@
   <programme start="20261105150000 +0000" stop="20261105160000 +0000" channel="STC_517781032001">
     <title lang="ar">المصيدة:الحلقة 10</title>
     <desc lang="ar">بعد عملية احتيال متقنة، تجد فريدة، خبيرة الاختراق، نفسها وأصدقاءها في سباق مع الزمن داخل شبكة معقدة من الأكاذيب والمطاردات. تتكشف خيوط من الماضي لم تكن بالحسبان، فتتبدل الأدوار وتصبح الخطة التي رسموها بداية لسلسلة مواجهات تهددهم جميعًا.</desc>
-    <icon src="https://mpx-assets.intigral-ott.net/landscape_streaming/S0011386001012.jpg"/>
+    <icon src="https://mpx-assets.intigral-ott.net/landscape_streaming/S0011386001015.jpg"/>
   </programme>
   <programme start="20261105160000 +0000" stop="20261105173000 +0000" channel="STC_517781032001">
     <title lang="ar">قلب أمه</title>
@@ -139072,7 +138942,7 @@
   <programme start="20261105173000 +0000" stop="20261105183000 +0000" channel="STC_517781032001">
     <title lang="ar">بيت أهلي:الحلقة 11</title>
     <desc lang="ar">تدور أحداث المسلسل في سوريا خلال أربعينيات القرن الماضي، ويستعرض قضايا الحب والطمع والتحولات الاجتماعية عبر حكايات من البيئة الشامية.</desc>
-    <icon src="https://mpx-assets.intigral-ott.net/landscape_streaming/S0011511001015.jpg"/>
+    <icon src="https://mpx-assets.intigral-ott.net/landscape_streaming/S0011511001030.jpg"/>
   </programme>
   <programme start="20261105183000 +0000" stop="20261105193000 +0000" channel="STC_517781032001">
     <title lang="ar">يا هلا</title>
